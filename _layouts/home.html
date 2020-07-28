@@ -1,0 +1,39 @@
+{% include page-language.html %}
+
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+    {% include meta.html %}
+  </head>
+  <body>
+    {% include menu.html %}
+    <div class="main-div-background main-div-background-home"></div>
+    <div class="main-div home-main-div">
+      {% include title.html %}
+      <section class="content-text">
+        {{ content }}
+      </section>
+      <section class="list-wrapper">
+        <div class="home-list">
+          {% assign PAGE_LANGUAGE_MATCH = PAGE_LANGUAGE | prepend: '/' | append: '/' %}
+          {% assign projects = site.pages |
+                               where:"layout","list" |
+                               where_exp:"page","page.url contains PAGE_LANGUAGE_MATCH" %}
+
+          {% for project in projects %}
+            {% assign pCover = site.baseurl | append: '/' | append: project.cover %}
+            <a class="list-item" href="{{ site.baseurl }}{{ project.url }}">
+              <div class="list-item-image hover-contrast"
+                   style="background-image: url('{{ pCover }}');"></div>
+              <div class="tint-overlay"></div>
+              <div class="list-item-title">{{ project.title }}</div>
+            </a>
+          {% endfor %}
+
+        </div>
+      </section>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

@@ -1,0 +1,28 @@
+<div class="language-menu">
+  {% assign url = page.url %}
+  {% if page.url == '/' %}
+    {% assign url = '/pt/' %}
+  {% endif %}
+
+  {% assign languages = "en,es,pt" | split:"," %}
+  {% for lang in languages %}
+    {% assign class = '' %}
+    {% if lang == PAGE_LANGUAGE %}
+      {% assign class = ' language-selected' %}
+    {% endif %}
+
+    {% assign lang_match = lang | append: "/" %}
+    {% assign lang_pages = site.pages |
+                           where:"name",page.name |
+                           where_exp:"item","item.permalink contains lang_match" %}
+
+    {% if lang_pages.size > 0 %}
+      {% assign lang_url = lang_pages.first.url %}
+    {% else %}
+      {% assign PAGE_LANGUAGE_match = PAGE_LANGUAGE | append:"/" %}
+      {% assign lang_url = url | replace:PAGE_LANGUAGE_match,lang_match %}
+    {% endif %}
+
+    <a class="language{{ class }}" href="{{ site.baseurl }}{{ lang_url }}">{{ lang }}</a>
+  {% endfor %}
+</div>

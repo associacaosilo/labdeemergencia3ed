@@ -1,0 +1,28 @@
+<div class="footer">
+  <div class="footer-line">
+    {{ site.data.phrases.title[PAGE_LANGUAGE] }}
+  </div>
+  <a class="footer-line" href="{{ site.social['envelope-o'] }}" target="_blank">
+    {{ site.social['envelope-o'] | replace:'mailto:','' }}
+  </a>
+  <!--
+    <div class="footer-line">
+      {% include social-icons.html %}
+    </div>
+  -->
+</div>
+
+{% if page.layout == 'home' %}
+  <div class="footer">
+    <div class="footer-line">
+      {{ site.data.phrases.partners[PAGE_LANGUAGE] }}
+    </div>
+    <div class="footer-line footer-line-parcerias">
+      {% for p in site.data.partners %}
+        <a href="{{ p.link }}" target="_blank">
+          <div class="footer-line parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/{{ p.image }}');"></div>
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+{% endif %}

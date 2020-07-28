@@ -1,0 +1,15 @@
+<p>
+  {{ site.data.phrases.index_intro_0[PAGE_LANGUAGE] }}
+</p>
+
+<p>
+  <a href="https://silo.org.br" target="_blank">SILO ARTE E LATITUDE RURAL</a>  junto a 
+
+  {% for p in site.data.partners %}
+    {% unless p.name == 'Silo' %}
+      <a href="{{ p.link }}" target="_blank">{{ p.name | upcase }}</a>,
+    {% endunless %}
+  {% endfor %}
+
+  {{ site.data.phrases.index_intro_1[PAGE_LANGUAGE] }}
+</p>

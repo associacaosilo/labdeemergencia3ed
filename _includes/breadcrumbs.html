@@ -1,0 +1,20 @@
+{% assign mc = site.collections | where:'label',page.collection %}
+
+{% if mc.size > 0 %}
+  {% assign title = mc.first.title %}
+  {% assign url = "/" | append: PAGE_LANGUAGE | append: "/" | append: mc.first.label %}
+{% else %}
+  {% assign mc = site.pages |
+                 where_exp:"post","page.url contains post.url" |
+                 where_exp:"post","post.url contains PAGE_LANGUAGE" |
+                 where_exp:"post","post.url != page.url" %}
+
+  {% assign url = mc.first.url %}
+  {% assign title = mc.first.title %}
+{% endif %}
+
+<section class="list-wrapper breadcrumbs-container">
+  <a href="{{ site.baseurl }}/{{ PAGE_LANGUAGE }}" class="breadcrumb-item">HOME</a> >
+  <a href="{{ site.baseurl }}{{ url }}" class="breadcrumb-item">{{ title }}</a> >
+  <span class="breadcrumb-item breadcrumb-selected">{{ page.title }}</span>
+</section>

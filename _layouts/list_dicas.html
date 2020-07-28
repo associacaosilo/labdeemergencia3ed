@@ -1,0 +1,41 @@
+{% include page-language.html %}
+
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+    {% include meta.html %}
+  </head>
+  <body>
+    {% include menu.html %}
+    <div class="main-div-background"></div>
+    <div class="main-div">
+      {% include title.html %}
+      <section class="content-text content-container">
+        <h2 class="list-title">{{ page.title }}</h2>
+        {{ content }}
+
+        <ul class="list">
+          {% assign slug = page.title | slugify %}
+
+          {% assign posts = site.pages |
+                             where_exp:"post","post.url contains slug" |
+                             where_exp:"post","post.url contains PAGE_LANGUAGE" |
+                             where_exp:"post","post.published == true" |
+                             where_exp:"post","post.url != page.url" %}
+
+          {% for post in posts %}
+            {% assign pCover = site.baseurl | append: '/' | append: post.cover %}
+            <li><a class="" href="{{ site.baseurl }}{{ post.url }}">
+              {{ post.title }}
+            </a></li>
+          {% endfor %}
+        </ul>
+      </section>
+      <section class="list-wrapper">
+        {% include share.html %}
+      </section>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
