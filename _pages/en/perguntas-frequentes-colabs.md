@@ -5,7 +5,7 @@ title: PERGUNTAS SOBRE A CONVOCATÓRIA DE COLABORADORAS/ES
 permalink: /en/dicas/perguntas-frequentes-colabs/
 ---
 
-![](/3ed/media/images/covers/perguntas.png)
+![](/3ed/media/images/covers/perguntas.jpg)
   
 
 

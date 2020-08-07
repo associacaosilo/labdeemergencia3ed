@@ -16,8 +16,7 @@ O Laboratório de Emergência é uma proposta colaborativa que trabalha o desenv
 Conheça a 1 ed. do Lab de Emergência e outros laboratórios que realizamos aqui:
 [Laboratórios da Silo](https://silo.org.br/interactivos/){:target="_blank"}
 
-
-**E veja a documentação de outras edições:**
-
-   
-[![](/3ed/media/images/labdeemergencia1.jpg)](https://labdeemergencia.silo.org.br/1ed){:target="_blank"}
+<br>
+<br>
+[Veja a documentação de outras edições](https://labdeemergencia.silo.org.br){:target="_blank"}
+[![](/3ed/media/images/covers/labdeemergencia.jpg)](https://labdeemergencia.silo.org.br){:target="_blank"}

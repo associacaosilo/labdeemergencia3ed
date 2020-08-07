@@ -4,7 +4,7 @@
     {% assign url = '/pt/' %}
   {% endif %}
 
-  {% assign languages = "en,es,pt" | split:"," %}
+  {% assign languages = "es,pt" | split:"," %}
   {% for lang in languages %}
     {% assign class = '' %}
     {% if lang == PAGE_LANGUAGE %}

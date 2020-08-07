@@ -25,7 +25,6 @@
                              where_exp:"post","post.url != page.url" %}
 
           {% for post in posts %}
-            {% assign pCover = site.baseurl | append: '/' | append: post.cover %}
             <li><a class="" href="{{ site.baseurl }}{{ post.url }}">
               {{ post.title }}
             </a></li>

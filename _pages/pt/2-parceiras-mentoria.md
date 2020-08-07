@@ -1,6 +1,6 @@
 ---
 layout: post
-published: true
+published: false
 title: PARCEIRAS, PLANTÕES E MENTORIA
 permalink: /pt/dicas/parceiras-mentoria/
 ---

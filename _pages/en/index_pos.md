@@ -17,8 +17,7 @@ The Emergency Laboratory is a collaborative proposal that works on the developme
 Get to know the first edition of the Emergency Lab and other Silo laboratories:
 [Silo Labs](https://silo.org.br/interactivos/){:target="_blank"}
 
-  
-**Past editions:**
-
-   
-[![](/3ed/media/images/labdeemergencia1.jpg)](https://labdeemergencia.silo.org.br/1ed){:target="_blank"}
+<br>
+<br>
+[See documentation from past editions of the lab](https://labdeemergencia.silo.org.br){:target="_blank"}
+[![](/3ed/media/images/covers/labdeemergencia.jpg)](https://labdeemergencia.silo.org.br){:target="_blank"}
