@@ -70,3 +70,6 @@
 - name: 'Mulheres do Futuro'
   image: ''
   link: 'https://www.instagram.com/mulheresdofuturopa/'
+- name: 'Instituto Ibirapitanga'
+  image: 'ibirapitanga.png'
+  link: 'https://www.ibirapitanga.org.br/'
