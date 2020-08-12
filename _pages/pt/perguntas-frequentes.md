@@ -8,44 +8,14 @@ permalink: /pt/dicas/perguntas-frequentes/
 ![](/3ed/media/images/covers/perguntas.jpg)
 
 
-**Meu projeto integrou a 1ª edição do Lab de Emergência. Posso inscrevê-lo para a 2ª edição?**
+
+**O que é o Laboratório de Emergência?**
   
-Sim.
-
----
-
-**Posso enviar mais de 1 projeto?**
+Este é um Laboratório de experimentação e inovação cidadã que promove e facilita o desenvolvimento de projetos e ideias estimulando a colaboração e a articulação em rede.
   
-Sim, porém não aconselhamos. É importante que consiga gerenciar mais de um projeto paralelamente via telegram ou whatsapp. O laboratório acontecerá em apenas 5 dias, provavelmente muito intensos.
-
 ---
-
-**Posso indicar colaboradoras/es para meu projeto?**
   
-Pode e deve. Divulgaremos seu projeto e tentaremos angariar mais colaboradores no perfil indicado por você, mas é muito positivo se o projeto tiver uma pequena equipe já estruturada.
-
----
-
-**É imprescindível criar um grupo de whatsapp ou telegram no momento da inscrição?**
-
-Sim, pois, à medida que .s colaborador.s se inscrevem, compartilharemos o link para que possam começar a se organizar antes do começo do lab.
-
----
-
-**É um laboratório de ciência ?**
-  
-É um laboratório comprometido com ciência e a comunicação científica. 
-
-
----
-
-**Pode inscrever qualquer tipo de projeto ?**
-Não. Os projetos submetidos não devem:  contrariar as diretrizes da OMS - Organização Mundial de Saúde;   repercutir fake news e basear-se em fatos pseudocientíficos. 
- 
-
----
-
-**Para que serve o laboratório de emergência?**
+**Para que serve o Laboratório de Emergência?**
   
 * Conectar as ideias com o um número grande de colaboradores 
 * Fazer a divulgação dessas iniciativas
@@ -53,7 +23,7 @@ Não. Os projetos submetidos não devem:  contrariar as diretrizes da OMS - Orga
 * Oferecer plantões, uma espécie de mentoria em áreas específicas, caso seja necessário
 
 ---
-
+  
 **Por que apenas aceitamos projetos com licenças livres?**
   
 Como respondemos anteriormente, um dos objetivos do laboratório é potencializar a replicabilidade dos projetos.
@@ -62,15 +32,39 @@ O Laboratório de Emergência é uma proposta colaborativa que busca que os proj
   
 ---
 
- 
-Confira os projetos desenvolvidos nas edições anteriores do Lab de Emergência:
-[https://labdeemergencia.silo.org.br/1ed/](https://labdeemergencia.silo.org.br/1ed){:target="_blank"}
-[https://labdeemergencia.silo.org.br/2ed/](https://labdeemergencia.silo.org.br/2ed){:target="_blank"}
+**Posso inscrever qualquer tipo de projeto ?**
+  
+Não. Os projetos submetidos não devem:  contrariar as diretrizes da OMS - Organização Mundial de Saúde;   repercutir fake news e basear-se em fatos pseudocientíficos. 
+   
+---
+  
+**Meu projeto integrou outras edições do Laboratório de Emergência. Posso inscrevê-lo para a 3ª edição?**
+  
+Sim.
 
+---
 
+**Posso enviar mais de 1 projeto?**
+  
+Sim, mas caso selecionado, apenas 1 dos projetos enviados integrará o Laboratório de Emergência.
+
+---
+
+**Posso indicar colaboradoras/es para meu projeto?**
+  
+Pode e deve. Divulgaremos seu projeto e tentaremos angariar mais colaboradores no perfil indicado por você, mas é muito positivo que o projeto tenha uma pequena equipe já estruturada.
+
+---
+
+**É um laboratório de ciência ?**
+  
+É um laboratório comprometido com ciência e a comunicação científica. 
+
+---
+  
 Caso sua dúvida não tenha sido respondida, por favor envie um email para: **labdeemergencia@silo.org.br**
-
-Veja aqui os projetos desenvolvidos nos primeiros laboratórios:
+  
+E veja aqui os projetos desenvolvidos nas edições anteriores do Laboratório de Emergência:
+  
 [https://labdeemergencia.silo.org.br](https://labdeemergencia.silo.org.br){:target="_blank"}
 
-Caso sua dúvida não tenha sido respondida, por favor envie um email para: **labdeemergencia@silo.org.br**
