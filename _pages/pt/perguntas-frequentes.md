@@ -11,7 +11,7 @@ permalink: /pt/dicas/perguntas-frequentes/
 
 **O que é o Laboratório de Emergência?**
   
-Este é um Laboratório de experimentação e inovação cidadã que promove e facilita o desenvolvimento de projetos e ideias estimulando a colaboração e a articulação em rede.
+Este é um laboratório de experimentação e inovação cidadã que promove e facilita o desenvolvimento de projetos e ideias estimulando a colaboração e a articulação em rede.
   
 ---
   
