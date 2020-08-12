@@ -10,7 +10,7 @@ permalink: /es/
 [Horta Inteligente](https://hortainteligente.wixsite.com/hortainteligente){:target="_blank"}, [Instituto Elos](https://institutoelos.org/){:target="_blank"}, [Instituto Procomum](https://www.procomum.org/){:target="_blank"}, [Instituto Update](https://www.institutoupdate.org.br/){:target="_blank"}, [MediaLab.UFRJ](href="http://medialabufrj.net/"){:target="_blank"}, [Mulheres do Futuro](https://www.instagram.com/mulheresdofuturopa/){:target="_blank"}, [Museu da Mantiqueira](https://museudamantiqueira.com.br/){:target="_blank"}, **No-Budget Science**, [Olabi](https://www.olabi.org.br){:target="_blank"}, [Pretalab](https://www.pretalab.com/){:target="_blank"}, [Redes da Maré](http://www.redesdamare.org.br/){:target="_blank"}, [Segura a Onda](https://seguraaonda.com.br/){:target="_blank"}, [Think Olga](https://www.thinkolga.com/){:target="_blank"}, [A Tramadora](https://www.tramadora.net/){:target="_blank"} y [TransLab.URB](https://translaburb.cc/){:target="_blank"}  presentan:
 
 
-**3ª Edición del Laboratorio de Emergencia \| COVID - 19 \| INFLECCIÓN: ESTRATEGIAS Y NUEVAS NARRATIVAS** donde se seleccionarán 15 propuestas para ser desarrolladas con la contribución de colaboradores en un laboratorio de solidaridad online, que se realizará del **24 al 30 de agosto de 2020**.
+**3ª Edición del Laboratorio de Emergencia \| COVID - 19 \| INFLECCIÓN: ESTRATEGIAS Y NUEVAS NARRATIVAS** donde se seleccionarán 12 propuestas para ser desarrolladas con la contribución de colaboradores en un laboratorio de solidaridad online, que se realizará del **24 al 30 de agosto de 2020**.
 
 **CALENDARIO:**
   
