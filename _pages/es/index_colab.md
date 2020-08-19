@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 2º Laboratorio de Emergencia | COVID 19
+title: 3º Laboratorio de Emergencia | COVID 19
 permalink: /es/
 ---
 
