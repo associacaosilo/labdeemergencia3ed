@@ -65,6 +65,6 @@ Pode e deve. Divulgaremos seu projeto e tentaremos angariar mais colaboradores n
 Caso sua dúvida não tenha sido respondida, por favor envie um email para: **labdeemergencia@silo.org.br**
   
 E veja aqui os projetos desenvolvidos nas edições anteriores do Laboratório de Emergência:
-  
+   
 [https://labdeemergencia.silo.org.br](https://labdeemergencia.silo.org.br){:target="_blank"}
 

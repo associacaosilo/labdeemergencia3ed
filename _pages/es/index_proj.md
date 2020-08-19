@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 3º Laboratório de Emergência | COVID 19
-permalink: /es/
+permalink: /es/index-proj/
 ---
 
 ![](/3ed/media/images/covers/chamada_projetos_es.png)

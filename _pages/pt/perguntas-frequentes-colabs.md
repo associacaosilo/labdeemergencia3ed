@@ -46,8 +46,8 @@ Você poderá sinalizar para seu grupo que estará disponível parcialmente.
 ---
 
  
-Confira os projetos desenvolvidos na primeira edição do Lab de Emergência:
-[https://labdeemergencia.silo.org.br/1ed/](https://labdeemergencia.silo.org.br/1ed){:target="_blank"}
+Confira os projetos desenvolvidos nas edições anteriore do Lab de Emergência:
+[https://labdeemergencia.silo.org.br](https://labdeemergencia.silo.org.br){:target="_blank"}
 
 
 Caso sua dúvida não tenha sido respondida, por favor envie um email para: **labdeemergencia@silo.org.br**
