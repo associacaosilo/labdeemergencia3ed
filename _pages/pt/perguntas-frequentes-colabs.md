@@ -46,7 +46,7 @@ Você poderá sinalizar para seu grupo que estará disponível parcialmente.
 ---
 
  
-Confira os projetos desenvolvidos nas edições anteriore do Lab de Emergência:
+Confira os projetos desenvolvidos nas edições anteriores do Laboratório de Emergência:
 [https://labdeemergencia.silo.org.br](https://labdeemergencia.silo.org.br){:target="_blank"}
 
 
