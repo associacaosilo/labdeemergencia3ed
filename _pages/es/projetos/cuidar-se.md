@@ -1,6 +1,6 @@
 ---
 layout: list
-title: CESTAS CUIDARSE: FEMINISMO, AGROECOLOGÍA Y AUTO CUIDADO EN TIEMPOS DE REINVENCIÓN
+title: CESTAS CUIDARSE – FEMINISMO, AGROECOLOGÍA Y AUTO CUIDADO EN TIEMPOS DE REINVENCIÓN
 proponent:
   - name: Tadzia de Oliva Maya /  Casimiro de Abreu , RJ
     url: 
