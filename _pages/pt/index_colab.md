@@ -10,7 +10,7 @@ A [Silo - Arte e Latitude Rural](https://silo.org.br/){:target="_blank"} com apo
   
 **3ª Edição do Laboratório de Emergência _ COVID–19** onde serão desenvolvidas 16 propostas com o aporte de colaborador.s, desenvolvedor.s e mentor.s em um laboratório solidário online, a se realizar do **24 ao 30 de agosto de 2020**. 
 
-Até o dia **22 de agosto, sexta-feira**, estão abertas as inscrições para colaborador.s que desejam participar diretamente do desenvolvimento de projetos e iniciativas voltadas para o enfrentamento da COVID 19, atuando e tomando decisões junto a uma equipe de trabalho.
+Até o dia **21 de agosto, sexta-feira**, estão abertas as inscrições para colaborador.s que desejam participar diretamente do desenvolvimento de projetos e iniciativas voltadas para o enfrentamento da COVID 19, atuando e tomando decisões junto a uma equipe de trabalho.
 
 FAÇA [AQUI](/3ed/media/docs/PT_CHAMADA_COLABS_LAB_DE_EMERGENCIA.pdf){:target="_blank"} O DOWNLOAD DA CONVOCATÓRIA COMPLETA 
 
