@@ -11,7 +11,7 @@ permalink: /pt/dicas/perguntas-frequentes-colabs/
 
 **Qual é a função das/os colaboradoras/es?** 
   
-As/os colaboradores protagonizam os laboratórios de emergência com suas capacidades e são absolutamente essenciais para o desenvolvimento dos projetos. Elas/es participam diretamente atuando a partir de seus conhecimentos, colaborando dentro de seu tempo disponível e tomando decisões junto a sua equipe de trabalho. Assim como as/os mentores e as/os proponentes do lab, as/os colaboradores não são remunerados. Este modelo de laboratório abre espaço para a criação de redes de colaboração, para o intercâmbio de saberes e para a aprendizagem coletiva e horizontal.
+As/os colaboradores protagonizam os laboratórios de emergência com suas capacidades e são absolutamente essenciais para o desenvolvimento dos projetos. Elas/es participam diretamente atuando a partir de seus conhecimentos, colaborando dentro de seu tempo disponível e tomando decisões junto a sua equipe de trabalho. Assim como as/os mentores e as/os proponentes do lab, as/os colaboradores não são remunerados. 
 
 ---
 
