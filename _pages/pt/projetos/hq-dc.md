@@ -1,6 +1,6 @@
 ---
 layout: list
-title: HQ DE DIVULGAÇÃO CIENTÍFICA: FLORA NA QUARENTENA + MEDIDAS PROTETIVAS CONTRA A COVID-19 EM ESCOLAS 
+title: HQ DE DIVULGAÇÃO CIENTÍFICA - FLORA NA QUARENTENA + MEDIDAS PROTETIVAS CONTRA A COVID-19 EM ESCOLAS 
 proponent:
   - name: Flora na Quarentena + Alessandra Junho Gama Belo / Rio de Janeiro, RJ e Belo Horizonte, MG
     url: 
