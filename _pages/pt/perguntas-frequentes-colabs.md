@@ -38,7 +38,7 @@ Você poderá sinalizar para seu grupo que estará disponível parcialmente.
 
 **Para que serve o laboratório de emergência?**
   
-* Conectar as ideias com o um número grande de colaboradores 
+* Conectar as ideias com um número grande de colaboradores 
 * Fazer a divulgação dessas iniciativas
 * Ajudar na estruturação e documentação de projetos para que estes possam ser replicáveis por outras comunidades
 * Oferecer plantões, uma espécie de mentoria em áreas específicas, caso seja necessário
