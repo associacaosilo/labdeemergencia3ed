@@ -40,38 +40,38 @@ Publicaremos em nossas redes e na página inicial do lab.
 
 * 23.08 – Domingo: 
   
-Estruturação de equipes 
+  Estruturação de equipes 
   
-Entrando no grupo vocês poderão aproveitar o dia para apresentar-se, ouvir sobre o projeto e ajudar a criar um cronograma de trabalho. Sugerimos que cada participante faça uma breve apresentação: 
-_ nome
-_ de onde é
-_ o que faz
+  Entrando no grupo vocês poderão aproveitar o dia para apresentar-se, ouvir sobre o projeto e ajudar a criar um cronograma de trabalho. Sugerimos que cada participante faça uma breve apresentação: 
+  * nome
+  * de onde é
+  * o que faz
   
-* 24.08 a 29.08  | 2ª a Sábado  
+* 24.08 a 29.08 – 2ª a Sábado  
     
-Laboratório: Desenvolvimento dos protótipos, documentação e execução. 
+  Laboratório: Desenvolvimento dos protótipos, documentação e execução. 
   
-Criem sua própria metodologia, divisão de tarefas entre todos, reuniões e o que mais for necessário. Caso necessitem de qualquer ajuda, avise os mediador.s – eles irão atendê-los ou nos chamar. Contem com a equipe técnica do Lab para ajudá-los. 
+  Criem sua própria metodologia, divisão de tarefas entre todos, reuniões e o que mais for necessário. Caso necessitem de qualquer ajuda, avise os mediador.s – eles irão atendê-los ou nos chamar. Contem com a equipe técnica do Lab para ajudá-los. 
 
-* 30.08  | Domingo 
+* 30.08  – Domingo – 19H
   
-Entrega da documentação  
+  Entrega da documentação  
   
-Para facilitar a replicabilidade dos projetos, todo o processo deve ser documentado. 
-[Criamos um formulário para orientar a documentação](https://docs.google.com/document/d/13XKDPajRUQ9rKa8R9efJJJRAUd6fPk21AicHTdtBpZg/edit?usp=sharing)
-(leia mais abaixo)
+  Para facilitar a replicabilidade dos projetos, todo o processo deve ser documentado. 
+  [Criamos um formulário para orientar a documentação](https://docs.google.com/document/d/13XKDPajRUQ9rKa8R9efJJJRAUd6fPk21AicHTdtBpZg/edit?usp=sharing)
+  (leia mais abaixo)
 
-Cada equipe deverá nos enviar, neste dia, um vídeo de no máximo 5min como apresentação final e o formulário de documentação de projetos preenchido. 
+  Cada equipe deverá nos enviar, neste dia, um vídeo de no máximo 5min como apresentação final e o formulário de documentação de projetos preenchido. 
 
-Na página de dicas compartilhamos orientações para o vídeo de apresentação:
-[https://labdeemergencia.silo.org.br/3ed/pt/dicas/video-apresentacao/](https://labdeemergencia.silo.org.br/3ed/pt/dicas/video-apresentacao/)
+  Na página de dicas compartilhamos orientações para o vídeo de apresentação:
+  [https://labdeemergencia.silo.org.br/3ed/pt/dicas/video-apresentacao/](https://labdeemergencia.silo.org.br/3ed/pt/dicas/video-apresentacao/)
 
 
-* 31.08 | 15h | Domingo
+* 30.08 – Domingo – 15H
 
-Apresentação
+  Apresentação
 
-As equipes vão compartilhar a documentação do processo de trabalho (em vídeo) assim como os resultados da experiência, a possível continuidade e a implementação do projeto.
+  As equipes irão compartilhar a documentação do processo de trabalho (em vídeo) assim como os resultados da experiência, a possível continuidade e a implementação do projeto.
 
 
 ---
