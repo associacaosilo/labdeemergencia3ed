@@ -18,14 +18,14 @@ permalink: /pt/dicas/tudo-que-voce-precisa-saber-sobre-o-lab/
 **MENTORIA**
 
 As/os mentores são parte das organizações parcerias do Lab de Emergência e carregam consigo as expertises dessa organização. Chamamos de mentoria, um eventual bate-papo ou ajuda que o grupo poderá solicitar com uma dessas pessoas. Fizemos uma lista de organizações e mentoras/es para que vocês possam conhecer um pouco mais sobre elas/es e convidá-las/os caso achem necessário. Elas podem ser conferidas aqui: 
-[https://labdeemergencia.silo.org.br/2ed/pt/dicas/parceiras-mentoria/](https://labdeemergencia.silo.org.br/2ed/pt/dicas/parceiras-mentoria/)
+[https://labdeemergencia.silo.org.br/3ed/pt/dicas/parceiras-mentoria/](https://labdeemergencia.silo.org.br/3ed/pt/dicas/parceiras-mentoria/)
 
 ---
 
 **TRABALHO REMOTO**
 
 Neste link vocês encontrarão algumas dicas sobre ferramentas e recursos para o trabalho remoto. Aceitamos sugestões:
-[https://labdeemergencia.silo.org.br/2ed/pt/dicas/trabalho-remoto/](https://labdeemergencia.silo.org.br/2ed/pt/dicas/trabalho-remoto/)
+[https://labdeemergencia.silo.org.br/3ed/pt/dicas/trabalho-remoto/](https://labdeemergencia.silo.org.br/3ed/pt/dicas/trabalho-remoto/)
 
 ---
 
@@ -64,7 +64,7 @@ Para facilitar a replicabilidade dos projetos, todo o processo deve ser document
 Cada equipe deverá nos enviar, neste dia, um vídeo de no máximo 5min como apresentação final e o formulário de documentação de projetos preenchido. 
 
 Na página de dicas compartilhamos orientações para o vídeo de apresentação:
-[https://labdeemergencia.silo.org.br/2ed/pt/dicas/video-apresentacao/](https://labdeemergencia.silo.org.br/2ed/pt/dicas/video-apresentacao/)
+[https://labdeemergencia.silo.org.br/3ed/pt/dicas/video-apresentacao/](https://labdeemergencia.silo.org.br/3ed/pt/dicas/video-apresentacao/)
 
 
 * 31.08 | 15h | Domingo
