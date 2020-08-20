@@ -145,6 +145,20 @@ Também é muito importante para os laboratórios que os projetos tenham grande 
 
 ---
 
+**PONTO DE ENCONTRO, O BAR DA SINDA VIRTUAL**
+
+Sentimos falta dos nossos encontros presenciais dos laboratórios na Silo! Tradicionalmente nos encontrávamos ao final do dia no Bar da Sinda, nossa vizinha na Serrinha do Alambari.
+  
+  
+Nesse lab vamos criar um espaço virtual, onde poderemos encontrar, ao acaso, outras participantes do lab. 
+  
+Você pode vir aqui na hora do cafezinho, nas pausas, ou até mesmo trocar uma idéia sobre o seu proejto.
+
+Basta entrar nesse link:
+
+[https://meet.jit.si/bar-da-sinda](https://meet.jit.si/bar-da-sinda)
+
+---
 
 **DÚVIDAS E PERGUNTAS SOBRE O LAB**
 
