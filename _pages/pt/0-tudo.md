@@ -33,7 +33,10 @@ As/os mentores são parte das organizações parcerias do Lab de Emergência e c
 
 ## MEDIAÇÃO
 
-A
+Cada grupo é mediado por uma pessoa da equipe do laboratório.
+Ela comunicará à coordenação demandas do projeto, como por exemplo: compra de materiais, necessidades técnicas, intermediação de conversas com outros grupos e etc.
+
+A mediação é também quem leva os comunicados da coordenação aos grupos. Vocês receberão **informes diários** com avisos, convites para as lives, lembrança de deadlines e documentos necessários para a documentação dos projetos.
 
   
 ---
@@ -41,7 +44,7 @@ A
 
 ## EQUIPE TÉCNICA
 
-A
+O laboratório de emergência tem uma equipe técnica que poderá auxiliar pontualmente os projetos a desenvolver suas plataformas, sites, amparar com vídeos, manejo de eletrônicos... 
   
   
 ---
@@ -135,7 +138,18 @@ Lembrem-se! Agradecemos muito se puderem nos enviar! Quanto mais melhor.
 
   
 ---
+
   
+## FOTO DE CAPA
+
+Ao final do lab recorrentemente divulgamos os projetos em nossas redes. Para isso é importante ter uma peça gráfica de capa projeto.
+Na documentação já é pedido a vocês que anexem imagens, mas pedimos que tenham especial cuidado ao enviar uma imagem principal, representativa do projeto.
+
+Ela será também usada como capa do seu projeto no site do laboratório.
+
+  
+---
+
 
 ## LOGO DO LAB
 
