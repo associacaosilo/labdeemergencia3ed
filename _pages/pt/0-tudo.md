@@ -188,16 +188,6 @@ Neste link vocês encontrarão algumas dicas sobre ferramentas e recursos para o
 ---
 
   
-## REGRAS SOCIAS + BOAS PRÁTICAS NO WHATSAPP
-
-Para evitar ruídos, temos também uma sugestão de regras sociais para trabalho colaborativo e boas práticas de relacão em apicativos de chat, como o whatsapp:
-
-[https://labdeemergencia.silo.org.br/3ed/pt/dicas/regras-sociais/](https://labdeemergencia.silo.org.br/3ed/pt/dicas/regras-sociais/)
-  
-  
-  
----
-
 ## LICENÇAS LIVRES
 
 Também é muito importante para os laboratórios que os projetos tenham grande potencial de replicabilidade por isso todos os projetos devem usar Licenças livres. 
