@@ -36,6 +36,8 @@ As/os mentores são parte das organizações parcerias do Lab de Emergência e c
 Cada grupo é mediado por uma pessoa da equipe do laboratório.
 Ela comunicará à coordenação demandas do projeto, como por exemplo: compra de materiais, necessidades técnicas, intermediação de conversas com outros grupos e etc.
 
+Basta reportar-se a ela quando tiverem alguma demanda ou precisarem falar diretamente com a coordenação.
+
 A mediação é também quem leva os comunicados da coordenação aos grupos. Vocês receberão **informes diários** com avisos, convites para as lives, lembrança de deadlines e documentos necessários para a documentação dos projetos.
 
   
@@ -45,6 +47,8 @@ A mediação é também quem leva os comunicados da coordenação aos grupos. Vo
 ## EQUIPE TÉCNICA
 
 O laboratório de emergência tem uma equipe técnica que poderá auxiliar pontualmente os projetos a desenvolver suas plataformas, sites, amparar com vídeos, manejo de eletrônicos... 
+
+Quando precisarem da ajuda desse equipe, basta comunicar à mediadora de seu grupo!
   
   
 ---
@@ -53,7 +57,7 @@ O laboratório de emergência tem uma equipe técnica que poderá auxiliar pontu
 ## BANCO DE TEMPO
 
 Se você quiser conhecer um pouco e colaborar com outros projetos, criamos um banco de tempo.
-A idéia é oromover o intercâmbio entre colaborador.s e necesidades de diferentes projetos do Laboratório de Emergência.
+A idéia é promover o intercâmbio entre colaborador.s e necesidades de diferentes projetos do Laboratório de Emergência.
 
 Esse banco é também importante por:
 * Promover a prática de uma economia colaborativa, pontual e solidária;
