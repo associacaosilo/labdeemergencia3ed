@@ -90,7 +90,7 @@ Esse banco é também importante por:
 
 * **30.08 – Domingo – 15H**
 
-  *APRESENTAÇÃO**
+  **APRESENTAÇÃO**
 
   As equipes irão compartilhar a documentação do processo de trabalho (em vídeo) assim como os resultados da experiência, a possível continuidade e a implementação do projeto.
 
@@ -116,6 +116,7 @@ Esse banco é também importante por:
 ## DOCUMENTAÇÃO
 
 A documentação dos projetos é essencial para a memória do lab e a replicabilidade dos projetos. Ela deverá ser feita pelos componentes do grupo por meio deste formulário (modelo):
+  
 [https://docs.google.com/document/d/13XKDPajRUQ9rKa8R9efJJJRAUd6fPk21AicHTdtBpZg/edit?usp=sharing](https://docs.google.com/document/d/13XKDPajRUQ9rKa8R9efJJJRAUd6fPk21AicHTdtBpZg/edit?usp=sharing)
 
 O material de documentação fará parte do acervo de projetos dos laboratórios realizados ao longo dos anos:
