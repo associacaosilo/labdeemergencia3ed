@@ -28,6 +28,13 @@ Abaixo você encontrará informações sobre as pessoas indicadas por essas orga
 
 ---
 
+**CASA CRIATURA**
+
+Espaço de co-trabalho que reúne pessoas, compartilha desejos e fomenta ideias criativas para inovar com propósito. Atuam com projetos que busquem o bem estar mútuo do ambiente e de seus seres, seres estes confiantes e conscientes do seu potencial de transformação.
+
+---
+
+  
 **COLETIVO ETINERÂNCIAS**
 
 
@@ -35,6 +42,7 @@ Abaixo você encontrará informações sobre as pessoas indicadas por essas orga
 
 **BELA BADERNA**
 
+Coletivo de profissionais de audiovisual que atua com vídeos para comunicação digital, documentários e séries de tv [capazes de inspirar e modificar]. 
 
 ---
 
@@ -44,6 +52,31 @@ Abaixo você encontrará informações sobre as pessoas indicadas por essas orga
 
 ---
 
+**Festival Circular do Bem Viver**
+  
+Circular é um festival que reúne novas ideias, atitudes e aprendizados voltados à construção de uma convivência com mais significado com a sociedade e o ambiente. Parte da prática para refletir, compartilhar, remixar e gerar novas ações focadas não mais na posse, mas sim no acesso e no compartilhamento de produtos e serviços.
+
+
+---
+
+**Coletivo Etinerancias**
+  
+Coletivo que atua junto à comunidades tradicionais e espaços de resistência pelo Brasil, co-criando e realizando projetos coletivos.
+
+Seu propósito é o fortalecimento das experiências autônomas por meio de assessoria metodológica à movimentos sociais, comunidades tradicionais (aldeias indígenas, quilombos, vilas costeiras e campesinas…) e espaços de resistência (ocupações, assentamentos, favelas) pelo Brasil e América Latina. 
+
+Através da convivência, do vínculo, da escuta e apoio à inteligência coletiva na articulação política no campo das relações e do comum.
+
+  
+---
+
+**Frena la Curva**
+  
+Frena la Curva (FLC) é uma plataforma cidadã onde voluntários, empresários, ativistas, organizações sociais, criadores e laboratórios públicos e de inovação aberta cooperam para canalizar e organizar a energia social e a resiliência cívica em face da pandemia Covid-19 ( coronavírus) dando uma resposta da sociedade civil complementar à do governo e dos serviços públicos essenciais.
+
+  
+---
+
 **Isabela Umbuzeiro Valent | USP**
 
 
@@ -51,6 +84,7 @@ Abaixo você encontrará informações sobre as pessoas indicadas por essas orga
 
 **FORÇA TAREFA AMEREK**
 
+Amarek é o nome do curso de Especialização em Comunicação Pública da Ciência ofertado pela Universidade Federal de Minas Gerais (UFMG). Integrado por grupo de cientistas e comunicadores, educadores e gestores e jovens acadêmicos especializados em divulgação científica, o curso se propõe a colocar em interação áreas profissionais diversas, como o ensino de ciências, o jornalismo científico, ambiental e de saúde, a editoria, a comunicação institucional e empresarial, o setor dos centros e museus de ciência e tecnologia. 
 
 ---
 

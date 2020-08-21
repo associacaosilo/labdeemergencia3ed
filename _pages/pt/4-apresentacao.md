@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: VÍDEO | APRESENTAÇÃO FINAL
 permalink: /pt/dicas/video-apresentacao/
 ---
