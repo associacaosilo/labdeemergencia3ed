@@ -59,20 +59,12 @@ Se você ouvir alguém trabalhando em um problema, você não deve arremessar su
   
 ---
    
-*Sem -ismos sutis**
+**Sem -ismos sutis**
   
 A última regra social tem a ver com -ismos: racismo, sexismo, machismo, homofobia, transfobia e qualquer outro tipo de preconceito ou parcialidade. Essa regra é um pouco diferente porque abrange uma classe de comportamentos e não um padrão específico como os outros.
 Os -ismos sutis são coisas que causam constrangimento, e que fazemos sem querer. Por exemplo, falar que algo "é tão fácil que minha vó conseguiria fazer", é um tipo de -ismo sutil. Como as outras regras, frequentemente infringimos essa sem querer, e como as outras regras, pedimos desculpa, e bola pra frente.
 Se você ver, ouvir, sentir ou experienciar um -ismo sutil, você deve apontá-lo às pessoas envolvidas publicamente ou em privado, e bola pra frente.
 O sutil de "-ismos sutis" significa que o que aconteceu não foi óbvio para todas as pessoas envolvidas. Não queremos discussões do tipo "comentário X não foi homofóbico/machista/etc"; se uma pessoa acha que foi, então foi. Também não queremos fomentar uma prática de "todos contra um", onde várias pessoas se juntam para apontar o -ismo de forma agressiva.
-
-  
----
-  
-  
-**Não exponha**
-  
-Construímos socialmente diferentes comportamentos para cada relação e contextos estabelecidos. Encaminhar mensagens recebidas pode ser prático e aparentemente evitar ruídos, no entanto, há um risco de expor alguém que enviou uma mensagem pensando que você seria a única leitora.
 
   
 ---
