@@ -23,7 +23,7 @@ permalink: /pt/dicas/tudo-o-que-voce-precisa-saber-sobre-o-lab/
 
 ## MENTORIA
 
-As/os mentores são parte das organizações parcerias do Lab de Emergência e carregam consigo as expertises dessa organização. Chamamos de mentoria, um eventual bate-papo ou ajuda que o grupo poderá solicitar com uma dessas pessoas. Fizemos uma lista de organizações e mentoras/es para que vocês possam conhecer um pouco mais sobre elas/es e convidá-las/os caso achem necessário. Elas podem ser conferidas aqui: 
+As/os mentoras/es são parte das organizações parcerias do Lab de Emergência e carregam consigo as expertises dessa organização. Chamamos de mentoria, um eventual bate-papo ou ajuda que o grupo poderá solicitar com uma dessas pessoas. Fizemos uma lista de organizações e mentoras/es para que vocês possam conhecer um pouco mais sobre elas/es e convidá-las/os caso achem necessário. A lista de instituições parceiras pode ser conferida aqui: 
 
 [https://labdeemergencia.silo.org.br/3ed/pt/dicas/parceiras-mentoria/](https://labdeemergencia.silo.org.br/3ed/pt/dicas/parceiras-mentoria/)
 
@@ -166,16 +166,6 @@ Fizemos uma pastinha com algumas cores para aplicação.
   
 ---
   
-  
-## TRABALHO REMOTO
-
-Neste link vocês encontrarão algumas dicas sobre ferramentas e recursos para o trabalho remoto. Aceitamos sugestões:
-
-[https://labdeemergencia.silo.org.br/3ed/pt/dicas/trabalho-remoto/](https://labdeemergencia.silo.org.br/3ed/pt/dicas/trabalho-remoto/)
-  
-    
----
-
     
 ## LIVES
 
@@ -185,6 +175,27 @@ Publicaremos em nossas redes e na página inicial do lab.
 
 ---
 
+  
+    
+## TRABALHO REMOTO
+
+Neste link vocês encontrarão algumas dicas sobre ferramentas e recursos para o trabalho remoto. Aceitamos sugestões:
+
+[https://labdeemergencia.silo.org.br/3ed/pt/dicas/trabalho-remoto/](https://labdeemergencia.silo.org.br/3ed/pt/dicas/trabalho-remoto/)
+  
+    
+---
+
+  
+## REGRAS SOCIAS + BOAS PRÁTICAS NO WHATSAPP
+
+Para evitar ruídos, temos também uma sugestão de regras sociais para trabalho colaborativo e boas práticas de relacão em apicativos de chat, como o whatsapp:
+
+[https://labdeemergencia.silo.org.br/3ed/pt/dicas/regras-sociais/](https://labdeemergencia.silo.org.br/3ed/pt/dicas/regras-sociais/)
+  
+  
+  
+---
 
 ## LICENÇAS LIVRES
 
@@ -202,9 +213,7 @@ Nesse lab vamos criar um espaço virtual onde poderemos encontrar, ao acaso, out
   
 Você pode vir aqui na hora do cafezinho, nas pausas, ou até mesmo trocar uma idéia sobre o seu proejto.
 
-Basta entrar nesse link:
-
-[https://meet.jit.si/bar-da-sinda](https://meet.jit.si/bar-da-sinda)
+Basta entrar nesse link: [https://meet.jit.si/bar-da-sinda](https://meet.jit.si/bar-da-sinda)
 
     
 ---
