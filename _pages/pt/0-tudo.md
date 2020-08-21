@@ -75,7 +75,7 @@ Esse banco é também importante por:
 
 * **23.08 – Domingo:**
   
-  Estruturação de equipes 
+  **ESTRUTURAÇÃO DE EQUIPES** 
   
   Entrando no grupo vocês poderão aproveitar o dia para apresentar-se, ouvir sobre o projeto e ajudar a criar um cronograma de trabalho. Sugerimos que cada participante faça uma breve apresentação: 
   * nome
@@ -84,26 +84,26 @@ Esse banco é também importante por:
   
 * **24.08 a 29.08 – 2ª a Sábado** 
     
-  Laboratório: Desenvolvimento dos protótipos, documentação e execução. 
+  **LABORATÓRIO: Desenvolvimento dos protótipos, documentação e execução.** 
   
   Criem sua própria metodologia, divisão de tarefas entre todos, reuniões e o que mais for necessário. Caso necessitem de qualquer ajuda, avise os mediador.s – eles irão atendê-los ou nos chamar. Contem com a equipe técnica do Lab para ajudá-los. 
 
 * **30.08 – Domingo – 15H**
 
-  Apresentação
+  *APRESENTAÇÃO**
 
   As equipes irão compartilhar a documentação do processo de trabalho (em vídeo) assim como os resultados da experiência, a possível continuidade e a implementação do projeto.
 
 * **30.08  – Domingo – 19H**
   
-  Entrega da documentação  
+  **ENTREGA DA DOCUMENTAÇÃO** 
   
   Para facilitar a replicabilidade dos projetos, todo o processo deve ser documentado. 
   
   [Criamos um formulário para orientar a documentação](https://docs.google.com/document/d/13XKDPajRUQ9rKa8R9efJJJRAUd6fPk21AicHTdtBpZg/edit?usp=sharing)
   (leia mais abaixo)
 
-  Cada equipe deverá nos enviar, neste dia, um vídeo de no máximo 5min como apresentação final e o formulário de documentação de projetos preenchido. 
+  Cada equipe deverá também nos enviar, neste dia, um vídeo de no máximo 5min como apresentação final e o formulário de documentação de projetos preenchido. 
 
   Na página de dicas compartilhamos orientações para o vídeo de apresentação:
   
