@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: REGRAS SOCIAIS, BOAS PRÁTICAS NO LAB ONLINE
 permalink: /pt/dicas/regras-sociais/
 ---
@@ -29,6 +29,15 @@ Será que a interpretação que você fez da mensagem recebida está correta?
 E sua resposta? Será bem compreendida?
 
 ---
+
+  
+**Não exponha**
+  
+Construímos socialmente diferentes comportamentos para cada relação e contextos estabelecidos. Encaminhar mensagens recebidas pode ser prático e aparentemente evitar ruídos, no entanto, há um risco de expor alguém que enviou uma mensagem pensando que você seria a única destinatária.
+
+  
+---
+  
     
 **Sem fingir surpresa**
   
