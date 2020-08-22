@@ -1,8 +1,8 @@
 ---
 layout: post
 published: true
-title: PARCEIRAS, PLANTÕES E MENTORIA
-permalink: /pt/dicas/parceiras-mentoria/
+title: MENTORIA
+permalink: /pt/dicas/mentoria/
 ---
 
 

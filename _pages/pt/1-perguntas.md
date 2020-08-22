@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: PERGUNTAS SOBRE O LAB
 permalink: /pt/dicas/perguntas/
 ---
