@@ -6,9 +6,8 @@ permalink: /pt/dicas/parceiras-mentoria/
 ---
 
 
-A [Silo - Arte e Latitude Rural](https://silo.org.br/){:target="_blank"} com apoio do  [Instituto Ibirapitanga](https://www.ibirapitanga.org.br/){:target="_blank"}, em parceria com [Amerek](https://twitter.com/amerek_ufmg){:target="_blank"}, [Bela Baderna](http://belabaderna.com.br/){:target="_blank"}, [Casa Criatura](https://www.instagram.com/casacriatura/){:target="_blank"}, [Festival Circular do Bem Viver](https://www.instagram.com/circularfestivaldobem/){:target="_blank"}, **Lab Coco**, [Datalabe](https://datalabe.org/){:target="_blank"}, [Coletivo Etinerancias](https://www.instagram.com/etinerancias){:target="_blank"}, [Frena la Curva](https://frenalacurva.net/){:target="_blank"}, [Gambiologia](http://www.gambiologia.net/blog/){:target="_blank"}, [Gênero e Número](http://www.generonumero.media/){:target="_blank"}, [Grupo de Experimentações Poéticas e Políticas do Sensível – GEPPS – USP](https://www.gepps.com.br){:target="_blank"}, [Horta Inteligente](https://hortainteligente.wixsite.com/hortainteligente){:target="_blank"}, [Instituto Elos](https://institutoelos.org/){:target="_blank"}, [Instituto Update](https://www.institutoupdate.org.br/){:target="_blank"}, [Instituto Procomum](https://www.procomum.org/){:target="_blank"}, [MediaLab.UFRJ](href="http://medialabufrj.net/"){:target="_blank"}, [Mulheres do Futuro](https://www.instagram.com/mulheresdofuturopa/){:target="_blank"}, [Museu da Mantiqueira](https://museudamantiqueira.com.br/){:target="_blank"}, **No-Budget Science**, [Olabi](https://www.olabi.org.br){:target="_blank"}, [Oráculo](https://oraculocomunica.wordpress.com/){:target="_blank"}, [Pretalab](https://www.pretalab.com/){:target="_blank"}, [Redes da Maré](http://www.redesdamare.org.br/){:target="_blank"}, [Segura a Onda](https://seguraaonda.com.br/){:target="_blank"}, [Think Olga](https://www.thinkolga.com/){:target="_blank"}, [A Tramadora](https://www.tramadora.net/){:target="_blank"} e [TransLab.URB](https://translaburb.cc/){:target="_blank"} apresentam a 3ª Edição do Laboratório de Emergência _ COVID–19.
-      
-Abaixo você encontrará informações sobre as pessoas indicadas por essas organizações parceiras para oferecerem um bate-papo com os projetos, uma espécie de mentoria relâmpago, de acordo com a demandas dos grupos de trabalho. 
+Abaixo você encontrará informações sobre as organizações parceiras que estão oferecendo um bate-papo com os projetos, uma espécie de mentoria relâmpago durante o Laboratório de Emergência, de acordo com a demandas dos grupos de trabalho. Vocês poderão solicitar uma sessão de mentoria com as organizações que quiser e elas vão enviar seus representantes para a conversa. Solicite com a mediadora do seu grupo de trabalho.
+
 
 --- 
 
@@ -114,6 +113,7 @@ Laboratório experimental e transdisciplinar sediado na Escola de Comunicação 
 [MULHERES DO FUTURO / Comunidades](https://www.instagram.com/mulheresdofuturopa/){:target="_blank"} 
   
 Lugar para exaltar ideias, projetos e ações de grandes mulheres do Estado do Pará - Brasil.  
+  
 ---
 
 [MUSEU DA MANTIQUEIRA / Memória e periferias](https://museudamantiqueira.com.br/){:target="_blank"}
@@ -145,6 +145,7 @@ A Oráculo  atua na área de prestação de serviços em assessoria, consultoria
 
   
 ---
+
 
 [REDES DA MARÉ / Arte, educacao e periferias](http://www.redesdamare.org.br/){:target="_blank"} 
 
@@ -184,7 +185,7 @@ Zona de Contágio é um laboratório situado, prática coletiva de uma ciência 
 [TransLab.URB / Arquitetura](https://translaburb.cc/){:target="_blank"}
   
 
-O TransLAB.URB é um coletivo autônomo que desenvolve projetos no campo da experimentação e prática em inovação social urbana, divididos em 3 categorias:Cocriação & Participação , Pedagogia Urbana e Ativação Urbana .O TransLAB.URB tem o foco na cidade, partindo de um entendimento do Urbanismo enquanto cultura coletiva, cruzando com conhecimentos transdisciplinares e empíricos dos agentes transformadores da vida urbana.  Buscam criar, difundir e testar diversas metodologias que possibilitem transformações dos espaços, dentro das lógicas do ativismo cidadão e da cidade como um bem comum .
+O TransLAB.URB é um coletivo autônomo que desenvolve projetos no campo da experimentação e prática em inovação social urbana, divididos em 3 categorias: Cocriação & Participação , Pedagogia Urbana e Ativação Urbana .O TransLAB.URB tem o foco na cidade, partindo de um entendimento do Urbanismo enquanto cultura coletiva, cruzando com conhecimentos transdisciplinares e empíricos dos agentes transformadores da vida urbana.  Buscam criar, difundir e testar diversas metodologias que possibilitem transformações dos espaços, dentro das lógicas do ativismo cidadão e da cidade como um bem comum .
 
 ---
 
