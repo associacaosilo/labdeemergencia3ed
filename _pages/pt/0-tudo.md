@@ -92,7 +92,11 @@ Esse banco é também importante por:
 
   **APRESENTAÇÃO**
 
-  As equipes irão compartilhar a documentação do processo de trabalho (em vídeo) assim como os resultados da experiência, a possível continuidade e a implementação do projeto.
+  Em uma live com todo os projetos participantes, as equipes irão compartilhar a documentação do processo de trabalho assim como os resultados da experiência, a possível continuidade e a implementação do projeto.
+  
+  Ela será transmitida nesse link: [https://youtu.be/tKWy8RHOADM](https://youtu.be/tKWy8RHOADM)
+  
+  Posteriormente compartilharemos com vocês, o link para participação.
 
 * **30.08  – Domingo – 19H**
   
@@ -103,7 +107,7 @@ Esse banco é também importante por:
   [Criamos um formulário para orientar a documentação](https://docs.google.com/document/d/13XKDPajRUQ9rKa8R9efJJJRAUd6fPk21AicHTdtBpZg/edit?usp=sharing)
   (leia mais abaixo)
 
-  Cada equipe deverá também nos enviar, neste dia, um vídeo de no máximo 5min como apresentação final e o formulário de documentação de projetos preenchido. 
+  Cada equipe deverá também nos enviar, neste dia, um vídeo de no máximo 5min como apresentação do projeto e o formulário de documentação preenchido. 
 
   Na página de dicas compartilhamos orientações para o vídeo de apresentação:
   
@@ -170,9 +174,30 @@ Fizemos uma pastinha com algumas cores para aplicação.
     
 ## LIVES
 
-Ao longo do Lab de Emergência teremos conversas abertas entre projetos, parceiras, participantes. Elas ocorrerão diariamente às 17h. Convidamos todxs a estarem presentes! Em breve divulgamos as conversas programadas.
+Ao longo do Lab de Emergência teremos conversas abertas entre projetos, parceiras, participantes. Elas ocorrerão de 3ª a 5ª feira às 17h. 
+Links para as lives:
 
-Publicaremos em nossas redes e na página inicial do lab.
+* [25.08 – 17H – Divulgação científica para crianças: e quando voltar as aulas?](https://www.youtube.com/watch?v=5O2mgYCotDg)
+  Como divulgar ciência para crianças ? E como será a volta às aulas? 
+    
+  Angélica Rivelline – diretora da Escola Municipal Quilombola de Santana Irmã Elizabeth Alves
+  Carolina Gigliotti – Flora na Quarentena
+  Giuliana Macedo – Professora de física, mediadora do Laboratório de Emergência  
+    
+* [26.08 – 17H – Agroecologia e sistemas agroalimentares pós pandemia](https://www.youtube.com/watch?v=bIDouTSZUgE)
+  Como a pandemia afetou a produçao e a venda de alimentos da agricultura? Como ficará o cenário da agroecologia após a pandemia? 
+  
+  Clarisse Valadares | Circuito cozinha, campo e mesa
+  Giuseppe Bandeira | Agroecologia em Rede  
+  Tadzia Maya | GT Mulheres AARJ | Cestas Cuidar-se 
+    
+* [27.08 – 17H – Memória  e existência no futuro](https://www.youtube.com/watch?v=ict7RUS1Lp8)
+  Como a memória pode contibuir para a construçao do futuro de indivíduos de comunidades quilombolas.
+    
+  Cristiano Sant'Anna | MUSEU, MEMÓRIAS E AFETOS DO RINCÃO DA CHIRCA
+  Mariglei Dias | MUSEU, MEMÓRIAS E AFETOS DO RINCÃO DA CHIRCA
+  Tatiana Prado | Núcleo de Memória e Pesquisa, Itaú Cultural
+
 
 ---
 
