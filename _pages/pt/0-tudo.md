@@ -48,7 +48,7 @@ A mediação é também quem leva os comunicados da coordenação aos grupos. Vo
 
 O laboratório de emergência tem uma equipe técnica que poderá auxiliar pontualmente os projetos a desenvolver suas plataformas, sites, amparar com vídeos, manejo de eletrônicos... 
 
-Quando precisarem da ajuda desse equipe, basta comunicar à mediadora de seu grupo!
+Quando precisarem da ajuda dessa equipe, basta comunicar à mediadora de seu grupo!
   
   
 ---
