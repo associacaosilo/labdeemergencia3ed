@@ -187,16 +187,16 @@ Links para as lives:
 * [26.08 – 17H – Agroecologia e sistemas agroalimentares pós pandemia](https://www.youtube.com/watch?v=bIDouTSZUgE)
   Como a pandemia afetou a produçao e a venda de alimentos da agricultura? Como ficará o cenário da agroecologia após a pandemia? 
   
-  Clarisse Valadares | Circuito cozinha, campo e mesa
-  Giuseppe Bandeira | Agroecologia em Rede  
-  Tadzia Maya | GT Mulheres AARJ | Cestas Cuidar-se 
+  Clarisse Valadares – Circuito cozinha, campo e mesa
+  Giuseppe Bandeira – Agroecologia em Rede  
+  Tadzia Maya – GT Mulheres AARJ – Cestas Cuidar-se 
     
 * [27.08 – 17H – Memória  e existência no futuro](https://www.youtube.com/watch?v=ict7RUS1Lp8)
   Como a memória pode contibuir para a construçao do futuro de indivíduos de comunidades quilombolas.
     
-  Cristiano Sant'Anna | MUSEU, MEMÓRIAS E AFETOS DO RINCÃO DA CHIRCA
-  Mariglei Dias | MUSEU, MEMÓRIAS E AFETOS DO RINCÃO DA CHIRCA
-  Tatiana Prado | Núcleo de Memória e Pesquisa, Itaú Cultural
+  Cristiano Sant'Anna – MUSEU, MEMÓRIAS E AFETOS DO RINCÃO DA CHIRCA
+  Mariglei Dias – MUSEU, MEMÓRIAS E AFETOS DO RINCÃO DA CHIRCA
+  Tatiana Prado – Núcleo de Memória e Pesquisa, Itaú Cultural
 
 
 ---
