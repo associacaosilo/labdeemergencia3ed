@@ -25,7 +25,7 @@ permalink: /pt/dicas/tudo-o-que-voce-precisa-saber-sobre-o-lab/
 
 As/os mentoras/es são parte das organizações parcerias do Lab de Emergência e carregam consigo as expertises dessa organização. Chamamos de mentoria, um eventual bate-papo ou ajuda que o grupo poderá solicitar com uma dessas pessoas. Fizemos uma lista de organizações e mentoras/es para que vocês possam conhecer um pouco mais sobre elas/es e convidá-las/os caso achem necessário. A lista de instituições parceiras pode ser conferida aqui: 
 
-[https://labdeemergencia.silo.org.br/3ed/pt/dicas/parceiras-mentoria/](https://labdeemergencia.silo.org.br/3ed/pt/dicas/parceiras-mentoria/)
+[https://labdeemergencia.silo.org.br/3ed/pt/dicas/mentoria/](https://labdeemergencia.silo.org.br/3ed/pt/dicas/mentoria/)
 
   
 ---
