@@ -1,7 +1,7 @@
 ---
 layout: home
 title: 3º Laboratório de Emergência _ COVID 19
-permalink: /pt/
+permalink: /pt/index-colab/
 ---
 
 ![](/3ed/media/images/covers/chamada_colabs_pt.png)
