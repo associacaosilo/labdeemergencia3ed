@@ -90,7 +90,7 @@ O projeto “Cartografia das Memórias” é um mapa sonoro realizado a partir d
 Desejamos alcançar o maior número e diversidade de relatos possíveis para formar um panorama heterogêneo de pontos de vistas sobre este evento de escala mundial. 
 Atualmente o projeto tem como principal objetivo ampliar sua divulgação em território nacional e elaborar táticas de divulgação a fim de produzir conteúdos que sejam capazes de aproximar as pessoas ao projeto e que estas se sintam estimuladas a enviar seus relatos. 
 
-<iframe  width="560" height="315" src="https://www.cartografiadasmemorias.org"></iframe>
+<iframe  width="640" height="500" src="https://www.cartografiadasmemorias.org"></iframe>
 
 ---
   
