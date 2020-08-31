@@ -4,7 +4,7 @@ title: Integrasan - Soluções Alternativas de Saneamento para Enfrentamento da 
 proponent:
   - name: Mario Bueno da Silva Junior, Victor Pinto Rajab, Luis Gustavo Bet, Bruno Eduardo B. R. Torres / Santos, SP
     url: 
-cover: integrasan.png
+cover: /media/images/covers/integrasan.png
 permalink: /pt/sasep/
 people:
   - name: Eduardo Oliveira

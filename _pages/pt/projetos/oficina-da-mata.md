@@ -4,10 +4,10 @@ title: OFICINA DA MATA
 proponent:
   - name: Leonardo Câmara e Ana Paula Veras Camurça Vieira / Maciço do Baturité, CE
     url: 
-cover: oficina.png
+cover: /media/images/covers/oficina.png
 permalink: /pt/oficina-da-mata/
 people:
-  - name:Beatriz Câmara
+  - name: Beatriz Câmara
     url: 
   - name: Yuri Firmeza
     url: 

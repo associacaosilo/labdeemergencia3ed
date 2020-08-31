@@ -4,7 +4,7 @@ title: BONDE DA GAMBIARRA
 proponent:
   - name: Ilana Guilland / Rio de Janeiro, RJ
     url: 
-cover: gambiarra.png
+cover: /media/images/covers/gambiarra.png
 permalink: /pt/bonde-da-gambiarra/
 people:
   - name: Beatriz Oliveira Bezerra
@@ -21,7 +21,7 @@ people:
     url: 
   - name: 
     url: 
-swipebox: gambiarra.png
+swipebox: gambiarra
 ---
 
 O Bonde da Gambiarra é uma iniciativa que pauta educação voltada para a ampliação do conceito de tecnologia e adota a gambiarra enquanto processo de construção da tecnologia,

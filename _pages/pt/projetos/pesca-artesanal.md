@@ -4,7 +4,7 @@ title: COLETIVO DE VENDAS DA PESCA ARTESANAL
 proponent:
   - name: Fernanda do Canto · Coletivo UC da Ilha / Florianópolis, SC
     url: 
-cover: pesca
+cover: /media/images/covers/pesca
 permalink: /pt/pesca-artesanal/
 people:
   - name: Camila Martins
