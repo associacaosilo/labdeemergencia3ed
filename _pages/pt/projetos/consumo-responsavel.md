@@ -1,30 +1,41 @@
 ---
 layout: list
-title: CONSUMO RESPONSÁVEL NA TRANSFORMAÇÃO DOS SISTEMAS ALIMENTARES
+title: 
 proponent:
-  - name: Luíza Costa Caldas / São Paulo, SP
+  - name: Luíza Costa Caldas e Tania Pereira Christopoulos/ São Paulo, SP
     url: 
-cover:
+cover: jornada.png
 permalink: /pt/consumo-responsavel/
 people:
-  - name:
+  - name: Daniela Delfini
     url: 
-  - name:
+  - name: Fabiana Sanchez
     url: 
-  - name: 
+  - name: Janes Rocha
     url: 
-  - name: 
+  - name: Julia Lazarte
     url: 
-  - name:
+  - name: Marccella Lopes
     url: 
-  - name: 
+  - name: Raquel Piedade
     url: 
-  - name: 
+  - name: Roberta Coppola
     url: 
+  - name: Yasmin Alvernoz
+    url: 
+  - name: Rick Barradas Badra 
+    url:  
+  - name: Karla Baldini 
+    url: 
+swipebox: jornada
 ---
+ 
+CONSUMO RESPONSÁVEL NA TRANSFORMAÇÃO DOS SISTEMAS ALIMENTARES
 
-**PERFIL DE COLABORADORES:** 
-Pessoas envolvidas com o setor de alimentos, sistemas alimentares, agroecologia e consumo responsável; comunicadores e divulgadores com experiência em audiovisual; profissional de marketing;  designer; gestor de redes sociais; programadoras/es; conhecedores de plataformas de webinars(zoom, Stremyard, youtube). 
-
-**RESUMO:**
-Promover uma plataforma de investigação coletiva sobre o sistema alimentar conectado a Região Metropolitana de SP para o incentivo ao consumo responsável. Essa plataforma poderá estar vinculada e ser retroalimentada por um curso sobre Sistemas Alimentares do programa de pós da sustentabilidade da EACH - USP. 
+Grupo que mantem uma plataforma de investigação coletiva sobre o sistema alimentar conectado a Região Metropolitana de São Paulo (SP) para incentivar o consumo responsável. A plataforma está vinculada e será retroalimentada por conteúdos produzidos pelo grupo a partir de informações próprias e fornecidas por parceiros. A meta é organizar um curso sobre Sistemas Alimentares dentro do programa de pós da sustentabilidade da Escola de Artes, Ciências e Humanidades da Universidade de São Paulo (EACH – USP).
+  
+  
+ACESSE O SITE DO PROJETO: [https://www.jornadadoalimento.org/](https://www.jornadadoalimento.org/){:target="_blank"}
+  
+    
+<iframe width="560" height="315" src="https://youtu.be/p-Ch8q4iMCM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

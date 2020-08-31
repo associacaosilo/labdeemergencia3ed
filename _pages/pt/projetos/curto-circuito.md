@@ -4,27 +4,31 @@ title: CURTO-CIRCUITO
 proponent:
   - name: Manuela Müller e Carolina Maia Piccolo / Rio de Janeiro, RJ e Lisboa, PT
     url: 
-cover:
+cover: /media/images/covers/curta.png
 permalink: /pt/curto-circuito/
 people:
-  - name:
+  - name: Cesar Suazo
     url: 
-  - name:
+  - name: Eduarda de Aquino
     url: 
-  - name: 
+  - name: Fabiana Duffrayer
     url: 
-  - name: 
+  - name: Fernanda de Mello
     url: 
-  - name:
+  - name: Jorge Luiz Fernando dos Santos
     url: 
-  - name: 
+  - name: Luisa Filardi
     url: 
-  - name: 
+  - name: Raphael Behrends
     url: 
+  - name: Talita Roque
+    url:
+swipebox: curta
 ---
 
-**PERFIL DE COLABORADORES:** 
-Designers de produto; designer gráfico; marceneirx; técnicx de audiovisual; eletricista; representante de uma rede solidária (informal ou por meio de instituições); mecânico de bicicletas; antropologxs cientistas sociais e/ou pesquisadorx sobre formas alternativas de ocupar e vivenciar a cidade; cientistas; bibliotecárix; -profissional de marketing digital e programador de website
 
-**RESUMO:**
-Diante da ausência do poder público, percebemos a crescente organização social para tentar diminuir os impactos da crise sanitária. Isto posto, queremos propor um mobiliário itinerante que possa ser utilizado para transportar doações e promover ações culturais. Entendemos que essas operações solidárias são fundamentais para que possamos existir e resistir como sociedade, deste modo temos o intuito de auxiliar os voluntários, facilitando a coleta, o armazenamento e a partilha de itens. Este objeto será desenvolvido em três escalas, possibilitando assim diversas hipóteses de apropriação. Os materiais utilizados são leves, acessíveis e permitem um fácil manejo. Nesse sentido, vamos desenvolver um manual com as instruções para a montagem das peças, fomentando a disseminação do projeto.
+Diante da crescente organização social para tentar diminuir os impactos da crise sanitária, percebemos a urgência de contribuir e fortalecer sistemas de trocas, distribuição de bens essenciais, promover e democratizar o acesso à cultura, lazer, conhecimento e informação. O intuito do projeto é auxiliar voluntários, facilitando a coleto, o armazenamento, a partilha de itens e ações culturai e sociais. Foi desenvolvida uma cartilha com o passo a passo para construção da Camoca – mobiliário itinerante – que pode ser utilizado para transportar doações e promover ações culturais. O objeto foi desenvolvido com a possibilidade de ser acoplado à bicicleta ou empurrado como carrinho de mão.
+
+[BAIXE AQUI A CARTILHA DE CONSTRUÇÃO](/3ed/media/docs/Cartilha_Curta_Circuito.pdf){:target="_blank"}
+
+ <iframe width="560" height="315" src="https://youtu.be/-8lmPlOnoQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

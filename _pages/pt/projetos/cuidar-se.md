@@ -4,7 +4,7 @@ title: CESTAS CUIDAR-SE -  FEMINISMO, AGROECOLOGIA E AUTOCUIDADO EM TEMPOS DE RE
 proponent:
   - name: Tadzia de Oliva Maya /  Casimiro de Abreu , RJ
     url: 
-cover:
+cover: cuidar-se
 permalink: /pt/cuidar-se/
 people:
   - name:
@@ -21,12 +21,10 @@ people:
     url: 
   - name: 
     url: 
+swipebox: cuidarse
 ---
 
-**PERFIL DE COLABORADORES:** 
-Designers; programadoras/es; ilustradoras/es; diagramadoras/es; revisoras/es de texto; jornalistas e  editores de texto e imagens.
-
-**RESUMO:**
-As cestas do Cuidar-se surgiram na pandemia da COVID-19, com a necessidade de proteção e reinvenção que este período nos exige. Nossa intenção é difundir sugestões focadas no autocuidado, no fortalecimento das defesas do corpo, no  bem-estar e na preservação da saúde integral  (física, mental e espiritual) para mulheres. Somos agricultoras rurais e urbanas, quilombolas, caiçaras, comunidade de matriz africana, raizeiras, benzedeiras, caiçaras, erveiras, artesãs, terapeutas populares, culinaristas, estudantes, professoras e educadoras populares. Assim, ao cuidar de nós e da outra, estamos também cuidando da terra, das cidades, dos campos, das florestas, dos vários lugares que habitamos e compartilhando um movimento cíclico de nutrição.
+Esta ação visa fortalecer e disseminar ações de autocuidado entre mulheres que integram a Articulação de Agroecologia do Rio de Janeiro e que estão na linha de frente de ações comunitárias e de solidariedade, desempenhando um papel chave na circulação de informações, nas ações de prevenção e de exigibilidade de direitos, especialmente saúde, alimentação e educação em seus territórios. Estamos entregando kits de cuidado, que chamamos de “Cestas do cuidar-se”, com práticas populares de saúde, medidas de proteção e material informativo. 
   
-Já foram distribuídas mais de 150 cestas no Estado do Rio de janeiro. Nessa fase do projeto temos como objetivo criar um site para abrigar todo o material produzido, detalhando as receitas para serem replicadas.Será um espaço para download do Caderno Acolhedor e onde haverá fotos e vídeos das produtoras e das mulheres beneficiadas pelas cestas.
+Os produtos distribuídos são feitos por mulheres agricultoras, terapeutas, homeopatas e comunicadoras populares que igualmente integram esta articulação, fortalecendo-as economicamente, num contexto onde a crise econômica também assola diversos territórios com impactos ainda mais sensíveis sob a vida das mulheres, muitas delas chefes de família.
+

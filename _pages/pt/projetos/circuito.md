@@ -4,27 +4,33 @@ title: CIRCUITO COZINHA, CAMPO E MESA.
 proponent:
   - name: Clarisse Valadares / Belo Horizonte, MG
     url: 
-cover:
+cover: /media/images/covers/circuito.png
 permalink: /pt/circuito/
 people:
-  - name:
+  - name: Bárbara Ribeiro de Vargas
     url: 
-  - name:
+  - name: Thais Santos Barreto
     url: 
-  - name: 
+  - name: Karina Helena Ramos
     url: 
-  - name: 
+  - name: Ramonn Melo
     url: 
-  - name:
+  - name: Tono Guimarães
     url: 
-  - name: 
+  - name: Cristina Brasileira
     url: 
-  - name: 
+  - name: Raphael Sanchez
     url: 
+  - name: Karla Baldini
+    url: 
+swipebox: circuito
 ---
 
-**PERFIL DE COLABORADORES:** 
-Agricultoras/es, cozinheiras/os, especialistas em logística, co-produtores/as de CSA, membros de associações ligadas à agroecologia, lideranças comunitárias, membros de cooperativas de produção de alimentos; designers; ilustradoras/es; jornalistas; assistentes sociais; programadoras/es e etc 
+O Circuito cozinha, campo, mesa é um projeto que visa mapear cozinheir.s afetad.s pela pandemia da Covid-19. O mapeamento, através de um website, pretende dar visibilidade às/aos profissionais cadastrad.s, e funcionar como uma rede de integração e encontro. Esta visibilidade será o ponto de partida para que se possa refletir e organizar relações possíveis entre est.s profissionais e as CSA´s (Comunidades que Sustentam a Agricultura) mais próximas à elas/es. Com o fechamento de restaurantes e da baixa na movimentação de eventos e de fluxo de pessoas nas ruas, muitas/os cozinheir.s se viram em casa sem o contato direto com seus e suas clientes e sem o aporte de uma logística para escoar sua produção. A ideia que estamos a desenvolver é que, com este mapeamento, seja tecida uma rede de apoio solidário entre cozinheiras/os e CSA´s. Ao terem acesso à alimentos (vegetais, frutas, etc), as cozinheiras/os poderão com estes, produzir refeições/quitutes/conservas/etc e incluí-los de alguma forma nas cestas dos/as co-produtores/as ou fazer parte de outro arranjo para que
+esta venda ocorra. Haverá assim, a oportunidade de trabalhar com alimentos sem veneno, que geram renda e estabilidade para famílias agricultoras e ter o trabalho dest.s cozinheir.s inserido dentro dessa rede já existente e aberta ao diálogo.
 
-**RESUMO:**
-Mapeamento e sistematização de circuitos curtos alimentares entre cozinheiras/os e agricultoras/es. Com o objetivo de localizar  cooperativas; CSA´s (Comunidades que sustentam a agricultura) e outras associações de agricultoras/es que trabalham através dos princípios agroecológicos ou que estejam em transição para estes; cozinheiras/os afetados pela pandemia; cozinheiras/os que consomem ou que gostariam de consumir produtos da agroecologia, para dar a ver as possíveis relações entre eles. O projeto pretende, a partir desse mapeamento, incentivar a utilização de insumos provenientes dos grupos de agricultoras/es para produção de receitas das/os cozinheiras/os mapeados.
+
+ACESSE O SITE DO PROJETO: [http://circuitocozinhacampomesa.com/](http://circuitocozinhacampomesa.com/){:target="_blank"}
+  
+  
+<iframe width="560" height="315" src="https://youtu.be/1zGfEC4_i84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
