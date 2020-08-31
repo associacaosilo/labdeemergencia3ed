@@ -1,30 +1,37 @@
 ---
 layout: list
-title: CIRCUITO DE COCINA, CAMPO Y MESA
+title: CIRCUITO COZINHA, CAMPO E MESA. 
 proponent:
   - name: Clarisse Valadares / Belo Horizonte, MG
     url: 
-cover:
+cover: /media/images/covers/circuito.png
 permalink: /es/circuito/
 people:
-  - name:
+  - name: Bárbara Ribeiro de Vargas
     url: 
-  - name:
+  - name: Thais Santos Barreto
     url: 
-  - name: 
+  - name: Karina Helena Ramos
     url: 
-  - name: 
+  - name: Ramonn Melo
     url: 
-  - name:
+  - name: Tono Guimarães
     url: 
-  - name: 
+  - name: Cristina Brasileira
     url: 
-  - name: 
+  - name: Raphael Sanchez
     url: 
+  - name: Karla Baldini
+    url: 
+swipebox: circuitos
 ---
 
-**PROFIL DE COLABORADORES:** 
-Agricultores, cocineros, especialistas en logística, coproductores de CSA, miembros de asociaciones vinculadas a la agroecología, líderes comunitarios, miembros de cooperativas de producción de alimentos; diseñadores; ilustradores; periodistas; Trabajadores sociales; programadores/desarrolladores web.
+El Circuito Cozinha, Campo, Mesa es un proyecto que tiene como objetivo mapear la cocina afectada por la pandemia Covid-19. El mapeo, a través de un sitio web, tiene como objetivo dar visibilidad a los profesionales registrados, y funcionar como una red de integración y encuentro. Esta visibilidad será el punto de partida para reflexionar y organizar las posibles relaciones entre los profesionales y las CSA (Comunidades de Apoyo a la Agricultura) más cercanas a ellos. Con el cierre de restaurantes y la caída en el movimiento de eventos y el flujo de gente en las calles, muchos cocineros se encontraron en casa sin contacto directo con ellos y sus clientes y sin el apoyo de la logística para drenar su producción. . La idea que estamos desarrollando es que, con este mapeo, se cree una red de apoyo entre cocineros y CSA´s. Al tener acceso a alimentos (verduras, frutas, etc.), los cocineros pueden utilizarlos para elaborar comidas / manjares / conservas / etc e incluirlos de alguna manera en las canastas de coproductores / formar parte de otro arreglo para que esta venta tenga lugar. Así, habrá la oportunidad de trabajar con alimentos sin veneno, que generan ingresos y estabilidad para las familias campesinas y de tener el trabajo destinado a Cozheir.s insertado dentro de esta red existente y abierto al diálogo.
 
-**RESUMEN:**
-Mapeo y sistematización de circuitos alimentarios entre cocineros y agricultores. Para ubicar cooperativas; CSA´s (Comunidades que apoyan la agricultura) y otras asociaciones de agricultores que trabajan o están en transición hacia principios agroecológicos; cocineros afectados por la pandemia; cocineros / los que consumen o les gustaría consumir productos de la agroecología, para mostrar las posibles relaciones entre ellos. El proyecto pretende, a partir de este mapeo, fomentar el uso de insumos de grupos de agricultores para producir recetas para los cocineros / mapeados.
+
+ACCEDA AL SITIO WEB DEL PROYECTO: [http://circuitocozinhacampomesa.com/](http://circuitocozinhacampomesa.com/){:target="_blank"}
+  
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1zGfEC4_i84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ 

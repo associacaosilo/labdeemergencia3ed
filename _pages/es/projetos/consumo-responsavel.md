@@ -1,30 +1,40 @@
 ---
 layout: list
-title: CONSUMO RESPONSABLE EN LA TRANSFORMACIÓN DE SISTEMAS ALIMENTARIOS
+title: JORNADA DE LA COMIDA
 proponent:
-  - name: Luíza Costa Caldas / São Paulo, SP
+  - name: Luíza Costa Caldas e Tania Pereira Christopoulos/ São Paulo, SP
     url: 
-cover:
+cover: /media/images/covers/jornada.png
 permalink: /es/consumo-responsavel/
 people:
-  - name:
+  - name: Daniela Delfini
     url: 
-  - name:
+  - name: Fabiana Sanchez
     url: 
-  - name: 
+  - name: Janes Rocha
     url: 
-  - name: 
+  - name: Julia Lazarte
     url: 
-  - name:
+  - name: Marccella Lopes
     url: 
-  - name: 
+  - name: Raquel Piedade
     url: 
-  - name: 
+  - name: Roberta Coppola
     url: 
+  - name: Yasmin Alvernoz
+    url: 
+  - name: Rick Barradas Badra 
+    url:  
+  - name: Karla Baldini 
+    url: 
+swipebox: jornadas
 ---
+ 
+CONSUMO RESPONSABLE EN LA TRANSFORMACIÓN DE SISTEMAS ALIMENTARIOS
 
-**PROFIL DE COLABORADORES:** 
-Personas involucradas con el sector alimentario, sistemas alimentarios, agroecología y consumo responsable; comunicadores y divulgadores con experiencia en audiovisuales; profesional de marketing; diseñador; gerente de redes sociales; programadores / es; conocedores de plataformas de seminarios web (zoom, Stremyard, youtube).
+Grupo que mantiene una plataforma de investigación colectiva sobre el sistema alimentario conectado a la Región Metropolitana de São Paulo (SP) para fomentar el consumo responsable. La plataforma está vinculada y será alimentada por contenido producido por el grupo a partir de su propia información y proporcionado por colaboradores. El objetivo es organizar un curso sobre Sistemas Alimentarios dentro del programa de puestos de sostenibilidad en la Escuela de Artes, Ciencias y Humanidades de la Universidad de São Paulo (EACH - USP).
 
-**RESUMEN:**
-Impulsar una plataforma de investigación colectiva sobre el sistema alimentario conectado a la Región Metropolitana de SP para fomentar el consumo responsable. Esta plataforma se puede vincular y retroalimentar a través de un curso sobre Sistemas Alimentarios del programa de puestos de sostenibilidad en EACH - USP.
+ACCEDA AL SITIO WEB DEL PROYECTO: [https://www.jornadadoalimento.org/](https://www.jornadadoalimento.org/){:target="_blank"}
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p-Ch8q4iMCM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
