@@ -28,3 +28,8 @@ Como forma de facilitar a comunicação entre a comunidade de pesca tradicional 
 
 
 [Instagram do projeto](https://www.instagram.com/peixaria.coletiva/){:target="_blank"}
+
+
+---
+
+[IMPRENSA](/3ed/pt/imprensa/pesca){:target="_blank"}
