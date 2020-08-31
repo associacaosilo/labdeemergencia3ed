@@ -4,7 +4,7 @@ title: CESTAS CUIDAR-SE -  FEMINISMO, AGROECOLOGIA E AUTOCUIDADO EM TEMPOS DE RE
 proponent:
   - name: Tadzia de Oliva Maya /  Casimiro de Abreu , RJ
     url: 
-cover: /media/images/covers/cuidarse
+cover: /media/images/covers/cuidarse.png
 permalink: /pt/cuidar-se/
 people:
   - name:
