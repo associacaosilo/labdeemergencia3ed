@@ -1,6 +1,6 @@
 ---
 layout: list
-title: CURTO-CIRCUITO
+title: CURTA-CIRCUITO
 proponent:
   - name: Manuela Müller e Carolina Maia Piccolo / Rio de Janeiro, RJ e Lisboa, PT
     url: 

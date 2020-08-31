@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Integrasan - Soluções Alternativas de Saneamento para Enfrentamento da Pandemia
+title: Integrasan - Integração Através da Democratização da Informação sobre Saneamento
 proponent:
   - name: Mario Bueno da Silva Junior, Victor Pinto Rajab, Luis Gustavo Bet, Bruno Eduardo B. R. Torres / Santos, SP
     url: 
