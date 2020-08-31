@@ -4,7 +4,7 @@ title: OFICINA DA MATA
 proponent:
   - name: Leonardo Câmara e Ana Paula Veras Camurça Vieira / Maciço do Baturité, CE
     url: 
-cover: /media/images/covers/_oficina.png
+cover: /media/images/covers/oficina.png
 permalink: /pt/oficina-da-mata/
 people:
   - name: Beatriz Câmara
@@ -29,7 +29,7 @@ people:
     url: 
   - name: Esther Martins
     url: 
-swipebox: oficina
+swipebox: oficinas
 ---
 
 O projeto Oficina da Mata visa mapear e articular diferentes experiências de arte-educação, agroecologia e transmissão de saberes tradicionais em comunidades rurais da região do Maciço do Baturité, interior do Ceará, através da criação de uma plataforma virtual interativa. O nome Oficina da Mata aponta justamente para o desejo de confluência entre os diversos fazeres e as práticas manuais realizados nas comunidades e a possibilidade de criação de formas pedagógicas de preservação e transmissão desses saberes. A plataforma será um espaço de encontro, diálogo, pesquisa e troca entre os diversos projetos existentes nessa região, apostando no compartilhamento de seus processos criativos e pedagógicos e no fortalecimento de suas práticas junto a suas comunidades.
@@ -46,3 +46,8 @@ Estreitaremos as conversas e trocas com os participantes dessas experiências du
 ACESSE O SITE DO PROJETO: [http://oficinadamata.com/](http://oficinadamata.com/){:target="_blank"}
 
 <iframe width="560" height="315" src="https://youtu.be/B36llDlTVt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+---
+
+[IMPRENSA](/3ed/pt/imprensa/oficina-da-mata){:target="_blank"}

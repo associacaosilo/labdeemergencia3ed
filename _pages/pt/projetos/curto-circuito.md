@@ -4,7 +4,7 @@ title: CURTO-CIRCUITO
 proponent:
   - name: Manuela Müller e Carolina Maia Piccolo / Rio de Janeiro, RJ e Lisboa, PT
     url: 
-cover: /media/images/covers/_curta.png
+cover: /media/images/covers/curta.png
 permalink: /pt/curto-circuito/
 people:
   - name: Cesar Suazo
@@ -23,7 +23,7 @@ people:
     url: 
   - name: Talita Roque
     url:
-swipebox: curta
+swipebox: curtas
 ---
 
 
@@ -32,3 +32,8 @@ Diante da crescente organização social para tentar diminuir os impactos da cri
 [BAIXE AQUI A CARTILHA DE CONSTRUÇÃO](/3ed/media/docs/Cartilha_Curta_Circuito.pdf){:target="_blank"}
 
  <iframe width="560" height="315" src="https://youtu.be/-8lmPlOnoQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ 
+--- 
+
+[IMPRENSA](/3ed/pt/imprensa/curta-circuito){:target="_blank"}

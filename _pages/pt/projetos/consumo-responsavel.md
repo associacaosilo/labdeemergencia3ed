@@ -4,7 +4,7 @@ title: JORNADA DO ALIMENTO
 proponent:
   - name: Luíza Costa Caldas e Tania Pereira Christopoulos/ São Paulo, SP
     url: 
-cover: /media/images/covers/_jornada.png
+cover: /media/images/covers/jornada.png
 permalink: /pt/consumo-responsavel/
 people:
   - name: Daniela Delfini
@@ -27,7 +27,7 @@ people:
     url:  
   - name: Karla Baldini 
     url: 
-swipebox: jornada
+swipebox: jornadas
 ---
  
 CONSUMO RESPONSÁVEL NA TRANSFORMAÇÃO DOS SISTEMAS ALIMENTARES
@@ -39,3 +39,7 @@ ACESSE O SITE DO PROJETO: [https://www.jornadadoalimento.org/](https://www.jorna
   
     
 <iframe width="560" height="315" src="https://youtu.be/p-Ch8q4iMCM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+[IMPRENSA](/3ed/pt/imprensa/jornada){:target="_blank"}

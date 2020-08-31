@@ -4,7 +4,7 @@ title: Flora na Quarentena - e a sonhada volta às aulas
 proponent:
   - name: Carolina Gigliotti + Alessandra Belo / Rio de Janeiro, RJ e Belo Horizonte, MG
     url: 
-cover: /media/images/covers/_flora.png
+cover: /media/images/covers/flora.png
 permalink: /pt/hq-dc/
 people:
   - name: Adriana Cabanelas
@@ -21,7 +21,7 @@ people:
     url: 
   - name: Meyrele Torres
     url: 
-swipebox: flora
+swipebox: floras
 ---
 
 
@@ -31,3 +31,7 @@ Muito material de divulgação científica sobre o coronavírus têm circulado d
 
 
 <iframe width="560" height="315" src="https://youtu.be/ipbD_AdRgO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+[IMPRENSA](/3ed/pt/imprensa/flora){:target="_blank"}

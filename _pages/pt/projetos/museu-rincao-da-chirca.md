@@ -4,7 +4,7 @@ title: MUSEU, MEMÓRIAS E AFETOS DO RINCÃO DA CHIRCA
 proponent:
   - name: Cristiano Sant'Anna e Mariglei Dias / Porto Alegre e Rosário do Sul / RS
     url: 
-cover: /media/images/covers/_museu.png
+cover: /media/images/covers/museu.png
 permalink: /pt/museu-rincao-da-chirca/
 people:
   - name: Clareana Arôxa
@@ -21,7 +21,7 @@ people:
     url: 
   - name: 
     url: 
-swipebox: museu
+swipebox: museus
 ---
 
 O Museu, Memórias e Afetos do Rincão da Chirca será um website reunindo documentos, textos e fotografias sobre a história oral dessa região no interior do município de Rosário do Sul. Esses documentos, reunidos ao longo dos anos pela proponente, são produzidos a partir do relato de uma oralidade tradicional da região. Constituindo um lugar de salvaguarda dessa memória, o website estará aberto, depois de concluído do projeto, para adição de novos documentos de pesquisa.
@@ -37,3 +37,8 @@ Nossos próximos passos são a compra de domínio, o desenvolvimento da programa
 [Veja aqui o estudo de design para o site do museu](/3ed/media/docs/estudo_design_museu_memorias_afetos_rincao_chirca.pdf){:target="_blank"}
 
 <iframe width="560" height="315" src="https://youtu.be/3mv1rNglfII" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ 
+--- 
+
+[IMPRENSA](/3ed/pt/imprensa/museu){:target="_blank"}

@@ -4,7 +4,7 @@ title: AGUAPÉ
 proponent:
   - name: Ainoã Batista Pereira, Luiza Poeiras, Manu Lima, Mailza Bernard / Belo Horizonte, MG.
     url: 
-cover: /media/images/covers/_aguape.png
+cover: /media/images/covers/aguape.png
 permalink: /pt/aguape/
 people:
   - name: Clareana Aroxa
@@ -19,7 +19,7 @@ people:
     url: 
   - name: Ewald Cordeiro
     url: 
-swipebox: aguape
+swipebox: aguapes
 ---
 
 
@@ -35,3 +35,8 @@ Através do projeto e plataforma, buscamos a escuta das vozes de cada territóri
 ACESSE O SITE DO PROJETO: [http://redeaguape.org/](http://redeaguape.org/){:target="_blank"}
 
 <iframe width="560" height="315" src="https://youtu.be/HSQomzGJ9x0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+ 
+--- 
+
+[IMPRENSA](/3ed/pt/imprensa/aguape){:target="_blank"}
