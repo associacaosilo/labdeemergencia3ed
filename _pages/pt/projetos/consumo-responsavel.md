@@ -4,7 +4,7 @@ title: JORNADA DO ALIMENTO
 proponent:
   - name: Luíza Costa Caldas e Tania Pereira Christopoulos/ São Paulo, SP
     url: 
-cover: /media/images/covers/jornada.png
+cover: /media/images/covers/_jornada.png
 permalink: /pt/consumo-responsavel/
 people:
   - name: Daniela Delfini

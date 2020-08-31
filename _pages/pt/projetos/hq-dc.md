@@ -4,7 +4,7 @@ title: Flora na Quarentena - e a sonhada volta às aulas
 proponent:
   - name: Carolina Gigliotti + Alessandra Belo / Rio de Janeiro, RJ e Belo Horizonte, MG
     url: 
-cover: /media/images/covers/flora.png
+cover: /media/images/covers/_flora.png
 permalink: /pt/hq-dc/
 people:
   - name: Adriana Cabanelas

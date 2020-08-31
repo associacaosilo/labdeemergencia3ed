@@ -4,7 +4,7 @@ title: CURTO-CIRCUITO
 proponent:
   - name: Manuela Müller e Carolina Maia Piccolo / Rio de Janeiro, RJ e Lisboa, PT
     url: 
-cover: /media/images/covers/curta.png
+cover: /media/images/covers/_curta.png
 permalink: /pt/curto-circuito/
 people:
   - name: Cesar Suazo

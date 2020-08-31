@@ -4,7 +4,7 @@ title: CIRCUITO COZINHA, CAMPO E MESA.
 proponent:
   - name: Clarisse Valadares / Belo Horizonte, MG
     url: 
-cover: /media/images/covers/circuito.png
+cover: /media/images/covers/_circuito.png
 permalink: /pt/circuito/
 people:
   - name: Bárbara Ribeiro de Vargas

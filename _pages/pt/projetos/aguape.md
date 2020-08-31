@@ -4,7 +4,7 @@ title: AGUAPÉ
 proponent:
   - name: Ainoã Batista Pereira, Luiza Poeiras, Manu Lima, Mailza Bernard / Belo Horizonte, MG.
     url: 
-cover: /media/images/covers/aguape.png
+cover: /media/images/covers/_aguape.png
 permalink: /pt/aguape/
 people:
   - name: Clareana Aroxa

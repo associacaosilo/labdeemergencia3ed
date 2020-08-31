@@ -85,7 +85,7 @@ Os próximo passos são o lançamento e a implementação da Campanha Sonho Jove
 
 ## CARTOGRAFIA DAS MEMÓRIAS / Rio de Janeiro, RJ
   
-**RESUMO:**
+
 O projeto “Cartografia das Memórias” é um mapa sonoro realizado a partir de uma iniciativa coloborativa que busca registrar e preservar, através de relatos orais, memórias de vivências pessoais durante a pandemia da Covid-19. Você pode colaborar com o envio de seu relato e também com o compartilhamento do projeto em suas redes.
 Desejamos alcançar o maior número e diversidade de relatos possíveis para formar um panorama heterogêneo de pontos de vistas sobre este evento de escala mundial. 
 Atualmente o projeto tem como principal objetivo ampliar sua divulgação em território nacional e elaborar táticas de divulgação a fim de produzir conteúdos que sejam capazes de aproximar as pessoas ao projeto e que estas se sintam estimuladas a enviar seus relatos. 

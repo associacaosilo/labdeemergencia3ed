@@ -4,7 +4,7 @@ title: MUSEU, MEMÓRIAS E AFETOS DO RINCÃO DA CHIRCA
 proponent:
   - name: Cristiano Sant'Anna e Mariglei Dias / Porto Alegre e Rosário do Sul / RS
     url: 
-cover: /media/images/covers/museu.png
+cover: /media/images/covers/_museu.png
 permalink: /pt/museu-rincao-da-chirca/
 people:
   - name: Clareana Arôxa

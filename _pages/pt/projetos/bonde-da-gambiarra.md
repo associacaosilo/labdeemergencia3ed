@@ -4,7 +4,7 @@ title: BONDE DA GAMBIARRA
 proponent:
   - name: Ilana Guilland / Rio de Janeiro, RJ
     url: 
-cover: /media/images/covers/gambiarra.png
+cover: /media/images/covers/_gambiarra.png
 permalink: /pt/bonde-da-gambiarra/
 people:
   - name: Beatriz Oliveira Bezerra
