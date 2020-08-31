@@ -46,7 +46,7 @@ O projeto “Inclusive | Redes Comunitárias para Ambientes Virtuais de Aprendiz
 Também foi criada uma cartilha instrutiva sobre o conceito e implementação do sistema. Foi desenvolvida uma solução de baixo custo para implementar um servidor local de mídia, onde poderão ser inseridos conteúdos que serão disponibilizados para a comunidade local através de uma rede sem fio, acessível por telefone celular ou computador. A rede é administrada pela própria comunidade, tem toda sua estrutura baseada em software livre e funciona independente de acesso à Internet.
 Para colocar em funcionamento o sistema criado em edição anterior do laboratório o inclusive busca desenvolver um guia passo a passo de instalação e finalizar o desenvolvimento de uma imagem instalável de um sistema GNU/Linux como solução completa para Ambientes Virtuais de Aprendizagem.
 
-<iframe width="560" height="315" src="https://youtu.be/X19TbXGn8Fw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X19TbXGn8Fw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -69,7 +69,7 @@ Foram realizadas as seguintes atividades:
 - Edição do vídeo Sonho Jovem.
     
 Os próximo passos são o lançamento e a implementação da Campanha Sonho Jovem nas redes sociais.
-<iframe width="560" height="315" src="https://youtu.be/z7Zb2Q9I-qQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z7Zb2Q9I-qQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   
 [BAIXA AQUI O GUIA PARA INSTAGRAM](/3ed/media/docs/incubadora_guia_instagram.pdf){:target="_blank"}

@@ -30,7 +30,7 @@ Flora na Quarentena é uma série de quadrinhos educativos, que tem como objetiv
 Muito material de divulgação científica sobre o coronavírus têm circulado desde o princípio da pandemia. Contudo, apenas uma pequena fração desses trabalhos dialoga com o público infantil. Com o objetivo de compartilhar informações relevantes a respeito de diversas questões associadas à pandemia de covid-19, desenvolvemos a revista “Flora na Quarentena - e a sonhada volta às aulas”. Além de histórias em quadrinhos recheadas de ciência e afeto, a revista conta com uma série de atividades e jogos educativos, desenvolvidos para crianças que frequentam a educação básica. Como proposta principal da revista, convidamos as crianças a imaginarem o futuro, onde a volta às aulas é uma realidade e certas medidas protetivas devem ser tomadas para a preservação da saúde de todos.
 
 
-<iframe width="560" height="315" src="https://youtu.be/ipbD_AdRgO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ipbD_AdRgO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
