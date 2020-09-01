@@ -13,7 +13,7 @@ Con un carácter multidisciplinario, el laboratorio se caracteriza por el encuen
 Realizado a través de dos convocatorias abiertas, una para proyectos y otra para colaboradores, el Laboratorio busca proyectos principalmente de las periferias rurales y urbanas. La función del laboratorio es conectar ideas con una gran cantidad de colaboradores, difundir estas iniciativas, ayudar a estructurarlas para que puedan ser replicadas y también ofrecer tutoría y subsidio para propuestas. El Lab es un evento que se lleva a cabo online, a través de grupos de trabajo autogestionados, utilizando plataformas de chat, videollamada, audio y transmisión.
   
 El Laboratorio de Emergencia es una propuesta de colaboración que trabaja en el desarrollo de proyectos bajo la lógica participativa utilizando licencias livres que permiten la replicación y adaptación de proyectos a otros contextos.
-Conozca la primera edición del Laboratorio de Emergencia y otros laboratorios que llevamos a cabo aquí:
+Conozca las ediciónes anteriores del Laboratorio de Emergencia y otros laboratorios que llevamos a cabo aquí:
 [Laboratorios de Silo](https://silo.org.br/interactivos/){:target="_blank"}
 
 <br>
