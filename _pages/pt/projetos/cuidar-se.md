@@ -7,11 +7,11 @@ proponent:
 cover: /media/images/covers/cuidarse.png
 permalink: /pt/cuidar-se/
 people:
-  - name:
+  - name: Marina
     url: 
-  - name:
+  - name: Richard Junior
     url: 
-  - name: 
+  - name: Raquel
     url: 
   - name: 
     url: 
@@ -28,7 +28,7 @@ Esta ação visa fortalecer e disseminar ações de autocuidado entre mulheres q
   
 Os produtos distribuídos são feitos por mulheres agricultoras, terapeutas, homeopatas e comunicadoras populares que igualmente integram esta articulação, fortalecendo-as economicamente, num contexto onde a crise econômica também assola diversos territórios com impactos ainda mais sensíveis sob a vida das mulheres, muitas delas chefes de família.
 
- 
+Acesse o site do projeto: [https://www.mulhereseagroecologiarj.com.br/](https://www.mulhereseagroecologiarj.com.br/){:target="_blank"} 
  
 --- 
 

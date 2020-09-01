@@ -7,11 +7,11 @@ proponent:
 cover: /media/images/covers/cuidarse.png
 permalink: /es/cuidar-se/
 people:
-  - name:
+  - name: Marina
     url: 
-  - name:
+  - name: Richard Junior
     url: 
-  - name: 
+  - name: Raquel
     url: 
   - name: 
     url: 
@@ -28,6 +28,8 @@ Las CESTAS CUIDARSE surgieron en la pandemia del COVID-19, con la necesidad de p
 Somos agricultores rurales y urbanas, quilombolas, caiçaras, comunidades de origen africana, raíces, benzedeiras, caiçaras, hierbas, artesanos, terapeutas populares, culinarios, estudiantes, profesores y educadores populares. Así, al cuidarnos a nosotros mismos y al otro, también estamos cuidando la tierra, las ciudades, los campos, los bosques, los diversos lugares que habitamos y compartiendo un movimiento cíclico de nutrición.
 Ya se han distribuido más de 150 cestas (canastas) en el Estado de Río de Janeiro. En esta nueva fase del proyecto, pretendemos crear un sitio web para albergar todo el material producido, detallando sobretodo las recetas a replicar.
 
+ACCEDA AL SITIO WEB DEL PROYECTO: [https://www.mulhereseagroecologiarj.com.br/](https://www.mulhereseagroecologiarj.com.br/){:target="_blank"} 
+ 
  
  
 --- 
