@@ -41,4 +41,4 @@ Los siguientes pasos son utilizar los ejemplos propuestos por el equipo para la 
 [Sombiarra: Metodologia de Proyeto de Design Gambiologico (pt)](https://www.yumpu.com/pt/document/read/63993210/sombiarra-metodologia-de-projeto-de-design-gambiologico){:target="_blank"}
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzLIfiSBVHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/uzLIfiSBVHg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

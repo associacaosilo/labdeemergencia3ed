@@ -38,7 +38,7 @@ Grupo que mantem uma plataforma de investigação coletiva sobre o sistema alime
 ACESSE O SITE DO PROJETO: [https://www.jornadadoalimento.org/](https://www.jornadadoalimento.org/){:target="_blank"}
   
     
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p-Ch8q4iMCM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/p-Ch8q4iMCM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 

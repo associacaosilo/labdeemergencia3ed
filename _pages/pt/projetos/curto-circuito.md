@@ -31,7 +31,7 @@ Diante da crescente organização social para tentar diminuir os impactos da cri
 
 [BAIXE AQUI A CARTILHA DE CONSTRUÇÃO](/3ed/media/docs/Cartilha_Curta_Circuito.pdf){:target="_blank"}
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/-8lmPlOnoQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="100%" height="315" src="https://www.youtube.com/embed/-8lmPlOnoQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
  
 --- 

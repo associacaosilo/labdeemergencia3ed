@@ -35,5 +35,5 @@ A través del proyecto y plataforma, buscamos escuchar las voces de cada territo
 
 EL SITIO WEB DEL PROJETO: [http://redeaguape.org/](http://redeaguape.org/){:target="_blank"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSQomzGJ9x0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/HSQomzGJ9x0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

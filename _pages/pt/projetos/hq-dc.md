@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Flora na Quarentena - e a sonhada volta às aulas  
+title: FLORA NA QUARENTENA – E A SONHADA VOLTA ÀS AULAS  
 proponent:
   - name: Carolina Gigliotti + Alessandra Belo / Rio de Janeiro, RJ e Belo Horizonte, MG
     url: 
@@ -8,11 +8,7 @@ cover: /media/images/covers/flora.png
 permalink: /pt/hq-dc/
 people:
   - name: Adriana Cabanelas
-    url: 
-  - name: Alessandra Belo
-    url: 
-  - name: Carolina Gigliotti
-    url: 
+    url:  
   - name: Elaine Torres
     url: 
   - name: Jorginho
@@ -30,7 +26,7 @@ Flora na Quarentena é uma série de quadrinhos educativos, que tem como objetiv
 Muito material de divulgação científica sobre o coronavírus têm circulado desde o princípio da pandemia. Contudo, apenas uma pequena fração desses trabalhos dialoga com o público infantil. Com o objetivo de compartilhar informações relevantes a respeito de diversas questões associadas à pandemia de covid-19, desenvolvemos a revista “Flora na Quarentena - e a sonhada volta às aulas”. Além de histórias em quadrinhos recheadas de ciência e afeto, a revista conta com uma série de atividades e jogos educativos, desenvolvidos para crianças que frequentam a educação básica. Como proposta principal da revista, convidamos as crianças a imaginarem o futuro, onde a volta às aulas é uma realidade e certas medidas protetivas devem ser tomadas para a preservação da saúde de todos.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ipbD_AdRgO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ipbD_AdRgO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 

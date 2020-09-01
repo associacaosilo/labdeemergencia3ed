@@ -46,13 +46,16 @@ O projeto “Inclusive | Redes Comunitárias para Ambientes Virtuais de Aprendiz
 Também foi criada uma cartilha instrutiva sobre o conceito e implementação do sistema. Foi desenvolvida uma solução de baixo custo para implementar um servidor local de mídia, onde poderão ser inseridos conteúdos que serão disponibilizados para a comunidade local através de uma rede sem fio, acessível por telefone celular ou computador. A rede é administrada pela própria comunidade, tem toda sua estrutura baseada em software livre e funciona independente de acesso à Internet.
 Para colocar em funcionamento o sistema criado em edição anterior do laboratório o inclusive busca desenvolver um guia passo a passo de instalação e finalizar o desenvolvimento de uma imagem instalável de um sistema GNU/Linux como solução completa para Ambientes Virtuais de Aprendizagem.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X19TbXGn8Fw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/X19TbXGn8Fw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
 ## INCUBADORA DE SONHOS / Brasília, DF
-  
-![](/3ed/media/images/incubadora.png)  
+   
+<img src="/3ed/media/images/incubadora.png" width="50%" padding-left="20%">
+
+   
+    
 O projeto apoia estudantes, motivando-os a refletir sobre o cenário de enfrentamento dos desafios causados pelo Covid-19 e criar um quadro de sonhos de futuro, para a geração de projetos colaborativos em suas comunidades.
 
 Na 3ª Edição do Laboratório de Emergência Covid-19, a Incubadora de Sonhos desenvolveu materiais e estratégias para a Campanha Sonho Jovem, que tem como objetivo inspirar jovens de todo o país a expressar e realizar seus sonhos. 
@@ -69,7 +72,7 @@ Foram realizadas as seguintes atividades:
 - Edição do vídeo Sonho Jovem.
     
 Os próximo passos são o lançamento e a implementação da Campanha Sonho Jovem nas redes sociais.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z7Zb2Q9I-qQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/z7Zb2Q9I-qQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   
 [BAIXA AQUI O GUIA PARA INSTAGRAM](/3ed/media/docs/incubadora_guia_instagram.pdf){:target="_blank"}
@@ -90,7 +93,7 @@ O projeto “Cartografia das Memórias” é um mapa sonoro realizado a partir d
 Desejamos alcançar o maior número e diversidade de relatos possíveis para formar um panorama heterogêneo de pontos de vistas sobre este evento de escala mundial. 
 Atualmente o projeto tem como principal objetivo ampliar sua divulgação em território nacional e elaborar táticas de divulgação a fim de produzir conteúdos que sejam capazes de aproximar as pessoas ao projeto e que estas se sintam estimuladas a enviar seus relatos. 
 
-<iframe  width="640" height="500" src="https://www.cartografiadasmemorias.org"></iframe>
+<iframe  width="100%" height="500" src="https://www.cartografiadasmemorias.org"></iframe>
 
 ---
   

@@ -40,4 +40,4 @@ Con el prototipo creado durante el laboratorio, tenemos la tarea de estructurar 
 
 ACCEDA AL SITIO WEB DEL PROYECTO: [http://oficinadamata.com/](http://oficinadamata.com/){:target="_blank"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B36llDlTVt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/B36llDlTVt0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -28,6 +28,6 @@ swipebox: curta
 
 Ante la creciente organización social para intentar disminuir los impactos de la crisis de sanitaria, percibimos la urgencia de constribuir y fortalecer los sistemas de intercambio, distribución de bienes de primera necesidad, promoviendo y democratizando el acceso a la cultura, el ocio, el conocimiento y la información. El propósito del proyecto es ayudar a los voluntarios, facilitando la recolección, almacenamiento, intercambio de elementos y acciones culturales y sociales. Se elaboró un folleto con el paso a paso para construir Camoca - Mobiliario móvil - que se puede utilizar para transportar donaciones y promover acciones culturales. El objeto fue desarrollado con la posibilidad de ser sujeto a la bicicleta o empujado como carretilla.
 
-[BAIXE AQUI A CARTILHA DE CONSTRUÇÃO](/3ed/media/docs/Cartilha_Curta_Circuito.pdf){:target="_blank"}
+[DESCARGA AQUÍ LA CARTILLA DE CONSTRUCCIÓN](/3ed/media/docs/Cartilha_Curta_Circuito.pdf){:target="_blank"}
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/-8lmPlOnoQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="100%" height="315" src="https://www.youtube.com/embed/-8lmPlOnoQQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

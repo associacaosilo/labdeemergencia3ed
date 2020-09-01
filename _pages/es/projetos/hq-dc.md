@@ -9,10 +9,6 @@ permalink: /es/hq-dc/
 people:
   - name: Adriana Cabanelas
     url: 
-  - name: Alessandra Belo
-    url: 
-  - name: Carolina Gigliotti
-    url: 
   - name: Elaine Torres
     url: 
   - name: Jorginho
@@ -29,4 +25,4 @@ Flora en Cuarentena es una serie de cómics educativos que tiene como objetivo t
 Mucho material de divulgación científica sobre el coronavirus ha estado circulando desde el comienzo de la pandemia. Sin embargo, solo una pequeña fracción de estos trabajos dialoga con el publico infantil. Con el fin de compartir información relevante sobre diversos temas asociados con la pandemia de covid-19, desarrollamos la revista “Flora na Quarentena - e a sonhada volta às aulas”. Además de las historietas llenas de ciencia y cariño, la revista cuenta con una serie de actividades y juegos didácticos, desarrollados para niños y niñas que se encuentran en la educación primaria. Como propuesta principal de la revista, invitamos a los niños y a las niñas a imaginar el futuro, donde el regreso a clases es una realidad y donde ciertas medidas de prevención  deben ser tomadas para preservar la salud de todos.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ipbD_AdRgO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ipbD_AdRgO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

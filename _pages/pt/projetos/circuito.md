@@ -33,7 +33,7 @@ esta venda ocorra. Haverá assim, a oportunidade de trabalhar com alimentos sem 
 ACESSE O SITE DO PROJETO: [http://circuitocozinhacampomesa.com/](http://circuitocozinhacampomesa.com/){:target="_blank"}
   
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1zGfEC4_i84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/1zGfEC4_i84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
  
 --- 

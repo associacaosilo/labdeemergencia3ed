@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Integrasan - Integração Através da Democratização da Informação sobre Saneamento
+title: INTEGRASAN - Integração Através da Democratização da Informação sobre Saneamento
 proponent:
   - name: Mario Bueno da Silva Junior, Victor Pinto Rajab, Luis Gustavo Bet, Bruno Eduardo B. R. Torres / Santos, SP
     url: 
@@ -30,7 +30,7 @@ O projeto Integrasan tem a proposta de oferecer serviços de consultoria virtual
 ACESSE O SITE DO PROJETO: [https://www.integrasan.com.br/](https://www.integrasan.com.br/){:target="_blank"}
   
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIAaBm6c1jU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/XIAaBm6c1jU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
  
 --- 

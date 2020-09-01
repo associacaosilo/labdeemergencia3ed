@@ -1,6 +1,6 @@
 ---
 layout: list
-title: CIRCUITO COZINHA, CAMPO E MESA. 
+title: CIRCUITO COCINA, CAMPO Y MESA. 
 proponent:
   - name: Clarisse Valadares / Belo Horizonte, MG
     url: 
@@ -32,6 +32,6 @@ El Circuito Cozinha, Campo, Mesa es un proyecto que tiene como objetivo mapear l
 ACCEDA AL SITIO WEB DEL PROYECTO: [http://circuitocozinhacampomesa.com/](http://circuitocozinhacampomesa.com/){:target="_blank"}
   
   
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1zGfEC4_i84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/1zGfEC4_i84" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
  

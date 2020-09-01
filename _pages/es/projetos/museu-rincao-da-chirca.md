@@ -38,5 +38,5 @@ Nuestros próximos pasos son la compra de un dominio, el desarrollo de la progra
 
 [Estudio de diseño para el sitio web del museo](/3ed/media/docs/estudo_design_museu_memorias_afetos_rincao_chirca.pdf){:target="_blank"}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3mv1rNglfII" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/3mv1rNglfII" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
