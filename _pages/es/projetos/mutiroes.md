@@ -4,7 +4,7 @@ title: MUTIRÕES
 proponent:
   - name: TELAS DA ESPERANÇA (Belém, PA) + CESTAS LÚDICAS (Porto Alegre, RS) + INCLUSIVE (Belo Horizonte, MG) + INCUBADORA DE SONHOS (Brasília, DF) + CARTOGRAFIA DAS MEMÓRIAS (Rio de Janeiro, RJ)
     url: 
-cover:
+cover: /media/images/covers/mutirao.png
 permalink: /es/mutiroes/
 people:
   - name: Ciro Fico
