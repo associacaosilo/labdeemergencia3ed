@@ -5,7 +5,7 @@ proponent:
   - name: Mario Bueno da Silva Junior, Victor Pinto Rajab, Luis Gustavo Bet, Bruno Eduardo B. R. Torres / Santos, SP
     url: 
 cover: /media/images/covers/integrasan.png
-permalink: /pt/sasep/
+permalink: /en/sasep/
 people:
   - name: Eduardo Oliveira
     url: 
