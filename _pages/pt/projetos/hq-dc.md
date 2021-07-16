@@ -20,13 +20,42 @@ people:
 swipebox: floras
 ---
 
+# O Almanaque da Flora na Quarentena 
+[Baixe aqui!](/3ed/media/docs/almanaque_da_flora.pdf){:target="_blank"}
 
-Flora na Quarentena é uma série de quadrinhos educativos, que tem como objetivo transmitir informações sobre a pandemia do novo coronavírus, além de fazer uma análise crítica do cenário atual. Muito material de divulgação científica está circulando nas redes, contudo, não são muitos os conteúdos verificado que propõem um diálogo diferenciado, especialmente com o público infanto-juvenil. Soma-se à isso o debate sobre um possível retorno presencial às aulas, o que demandaria a produção de material de qualidade feito para orientar pais e alunos. Tentando aprofundar a vertente educativa do projeto, propomos a elaboração de uma revista que veicule, junto aos quadrinhos da Flora, uma série de atividades lúdicas e informativas, recheada de propostas sobre como agir em determinadas situações.
+<br>
+![](/3ed/media/images/almanaque_flora.jpg)
 
-Muito material de divulgação científica sobre o coronavírus têm circulado desde o princípio da pandemia. Contudo, apenas uma pequena fração desses trabalhos dialoga com o público infantil. Com o objetivo de compartilhar informações relevantes a respeito de diversas questões associadas à pandemia de covid-19, desenvolvemos a revista “Flora na Quarentena - e a sonhada volta às aulas”. Além de histórias em quadrinhos recheadas de ciência e afeto, a revista conta com uma série de atividades e jogos educativos, desenvolvidos para crianças que frequentam a educação básica. Como proposta principal da revista, convidamos as crianças a imaginarem o futuro, onde a volta às aulas é uma realidade e certas medidas protetivas devem ser tomadas para a preservação da saúde de todos.
+<br>
+## Sobre o projeto:
+Flora na Quarentena é um coletivo formado por ilustradores, roteiristas, divulgadores da ciência, cientistas e jornalistas de diversos estados do país.
 
+O coletivo nasceu em maio de 2020, na 1a ed. do Laboratório de Emergência Covid-19 promovido pela Silo - arte e latitude rural em parceria com outras instituições. Em setembro de 2020, o grupo foi selecionado para a 3a ed. do Laboratório de Emergência Covid-19 com a proposta de desenvolver uma revista em quadrinhos educativa. Nessa ocasião, participamos de uma das Lives de Emergência sobre a volta às aulas.
+
+O trabalho acabou resultando em um gibi. A publicação é de julho de 2021, pela editora Fat/Uerj, graças ao apoio institucional da Universidade do Estado do Rio de Janeiro.
+
+<br>
+![](/3ed/media/images/umano_flora.jpeg)
+
+<br>
+## Sobre o Almanaque:
+Além de histórias em quadrinhos recheadas de ciência e afeto, o Almanaque da Flora na Quarentena conta com uma série de atividades e jogos educativos, desenvolvidos para crianças que frequentam a educação básica. O material tem informações relevantes e checadas sobre a pandemia de Covid19, em um esforço de divulgação científica especialmente pensado para crianças.
+
+Na história da revista, convidamos as crianças a compartilharem suas sensações acerca da volta às aulas, reforçando as medidas protetivas que devem ser tomadas para a preservação da saúde de todas e todos.
+  
+<br>
+## Onde encontrar a Flora?
+As produções da Flora na Quarentena são publicadas nas redes sociais do projeto: instagram, facebook e behance.
+
+O projeto foi divulgado no Jornal Minas, da TV Rede Minas, no Boletim Bairro a Bairro da UFMG e na Secretaria de Cultura de Porto Ferreira. Além disso, recebemos menção honrosa no I Congresso Nacional de Inovação e Popularização da Ciência da UFMG. O lançamento do Almanaque da Flora foi parte da programação do Festival do Conhecimento da UFRJ.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ipbD_AdRgO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<br>
+![](/3ed/media/images/capa_flora.jpeg)
+
+<br>
 
 ---
 
