@@ -20,7 +20,7 @@ people:
 swipebox: floras
 ---
 
-[Baixe aqui!](/3ed/media/docs/almanaque_da_flora.pdf){:target="_blank"}
+[BAIXE AQUI!](/3ed/media/docs/almanaque_da_flora.pdf){:target="_blank"}
 
 
 <br>
