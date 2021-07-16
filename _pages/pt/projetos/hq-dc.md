@@ -22,8 +22,6 @@ swipebox: floras
 
 [Baixe aqui!](/3ed/media/docs/almanaque_da_flora.pdf){:target="_blank"}
 
-<br>
-![](/3ed/media/images/almanaque_flora.jpg)
 
 <br>
 ## Sobre o projeto:
@@ -41,6 +39,9 @@ Além de histórias em quadrinhos recheadas de ciência e afeto, o Almanaque da 
 Na história da revista, convidamos as crianças a compartilharem suas sensações acerca da volta às aulas, reforçando as medidas protetivas que devem ser tomadas para a preservação da saúde de todas e todos.
   
 <br>
+![](/3ed/media/images/almanaque_flora.jpg)
+
+<br>
 ## Onde encontrar a Flora?
 As produções da Flora na Quarentena são publicadas nas redes sociais do projeto: [instagram](https://www.instagram.com/floranaquarentena/){:target="_blank"}, [facebook](https://www.facebook.com/floranaquarentena/){:target="_blank"} e [behance](https://www.behance.net/floranaquarentena){:target="_blank"}.
 
@@ -54,8 +55,9 @@ O projeto foi divulgado no [Jornal Minas](https://youtu.be/3Bd9bJ2FO0w){:target=
 
 ---
 
+<br>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ipbD_AdRgO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<br>
 
 
 ---
