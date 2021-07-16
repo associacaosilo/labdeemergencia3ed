@@ -45,9 +45,9 @@ Na história da revista, convidamos as crianças a compartilharem suas sensaçõ
   
 <br>
 ## Onde encontrar a Flora?
-As produções da Flora na Quarentena são publicadas nas redes sociais do projeto: instagram, facebook e behance.
+As produções da Flora na Quarentena são publicadas nas redes sociais do projeto: [instagram](https://www.instagram.com/floranaquarentena/){:target="_blank"}, [facebook](https://www.facebook.com/floranaquarentena/){:target="_blank"} e [behance](https://www.behance.net/floranaquarentena){:target="_blank"}.
 
-O projeto foi divulgado no Jornal Minas, da TV Rede Minas, no Boletim Bairro a Bairro da UFMG e na Secretaria de Cultura de Porto Ferreira. Além disso, recebemos menção honrosa no I Congresso Nacional de Inovação e Popularização da Ciência da UFMG. O lançamento do Almanaque da Flora foi parte da programação do Festival do Conhecimento da UFRJ.
+O projeto foi divulgado no [Jornal Minas](https://youtu.be/3Bd9bJ2FO0w){:target="_blank"}, da TV Rede Minas, no [Boletim Bairro a Bairro da UFMG](https://issuu.com/boletimbairroabairro/docs/boletim_junho-29-6-2020/2){:target="_blank"} e na [Secretaria de Cultura de Porto Ferreira](https://www.facebook.com/watch/live/?v=352581169047177&ref=watch_permalink){:target="_blank"}. Além disso, recebemos menção honrosa no [I Congresso Nacional de Inovação e Popularização da Ciência da UFMG](https://youtu.be/1SatWXMx3qU){:target="_blank"}. O lançamento do Almanaque da Flora foi parte da programação do Festival do Conhecimento da UFRJ.
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ipbD_AdRgO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
