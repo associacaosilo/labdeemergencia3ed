@@ -24,6 +24,7 @@ collections:
 markdown: kramdown
 port: 6870
 future: false
+theme: null
 
 # Defaults
 defaults:
